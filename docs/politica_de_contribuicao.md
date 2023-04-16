@@ -105,7 +105,7 @@ O padrão de Conventional Commits (Commits Convencionais) é uma convenção pop
 
 Os padrões do Conventional Commits consistem em três partes principais em sua sintaxe: tipo, escopo e descrição. Aqui estão os elementos-chave do Conventional Commits Pattern:
 
-* Referência para Issue (Problema): Todos os commits devem estar relacionados a uma issue, e deve ser a parte inicial do commit.
+* Referência para Issue (Problema): Todos os commits devem estar relacionados a uma issue, e deve ser a parte inicial do commit. É importante colocar a issue entre parênteses, caso contrário isso dificulta a edição iterativa de comandos como rebase e amend.
 
 * Ação realizada: Descreve qual ação é realizada pelo commit. Exemplo: adiciona, remove, modifica, atualiza, entre outros. Os verbos devem estar no **PRESENTE DO INDICATIVO**.
 
@@ -114,8 +114,8 @@ Os padrões do Conventional Commits consistem em três partes principais em sua 
 * Descrição: É uma breve descrição da alteração feita no commit. Deve ser clara, concisa e descritiva o suficiente para que outros desenvolvedores possam entender o que foi feito naquele commit em particular.
 
 Por exemplo: 
-* "#123 - Adiciona funcionalidade de login" indica que foi adicionada uma nova funcionalidade de login 
-* "#124 - Corrige bug na validação de formulário" indica que um bug relacionado à validação de formulário foi corrigido.
+* "(#123) - Adiciona funcionalidade de login" indica que foi adicionada uma nova funcionalidade de login 
+* "(#124) - Corrige bug na validação de formulário" indica que um bug relacionado à validação de formulário foi corrigido.
 
 O uso consistente desses padrões de tipo, escopo e descrição nas mensagens de commit ajuda a criar um histórico de alterações claro, fácil de entender e rastreável, o que é especialmente útil em projetos de equipe, onde vários desenvolvedores estão trabalhando juntos. 
 
