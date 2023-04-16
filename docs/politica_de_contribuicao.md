@@ -132,4 +132,5 @@ A sigla comumente usada para validar um review de pull request no GitHub é "LGT
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-15/04/2023 | 0.1.0 | Criação do documento | Victor Samuel dos Santos Lucas | Arthur Sena, Sérgio Cipriano, Vinicius Vieira e Peniel Etèmana 
+| 15/04/2023 | 0.1.0 | Criação do documento | Victor Samuel dos Santos Lucas | Arthur Sena, Sérgio Cipriano, Vinicius Vieira e Peniel Etèmana |
+| 15/04/2023 | 0.1.1 | Melhoria na política de branches e commits | Sérgio Cipriano | Arthur Sena, Victor Samuel dos Santos Lucas |
