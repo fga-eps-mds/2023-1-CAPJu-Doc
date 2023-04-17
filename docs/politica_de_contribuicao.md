@@ -79,19 +79,19 @@ Abaixo segue a lista dos padrões de nomenclatura e os respectivos tipos de func
 
 O commit semântico possui os elementos estruturais abaixo (tipos), que informam a intenção do seu commit ao utilizador(a) de seu código.
 
-* feat/(#issue-id)-(feature-name) - Referencia a adição de uma nova funcionalidade ou recurso de código na aplicação. Exemplo: feat/1-login-modal
+* feat/(issue-id)-(feature-name) - Referencia a adição de uma nova funcionalidade ou recurso de código na aplicação. Exemplo: feat/1-login-modal
 
-* fix/(#issue-id)-(fix-name) - Referencia a correção de um problema (bug fix). Exemplo: fix/2-erros-de-login
+* fix/(issue-id)-(fix-name) - Referencia a correção de um problema (bug fix). Exemplo: fix/2-erros-de-login
 
-* docs/(#issue-id)-(docs-name) - Referencia relação a mudanças em documentação. Exemplo: docs/3-politica-de-contribuicao
+* docs/(issue-id)-(docs-name) - Referencia relação a mudanças em documentação. Exemplo: docs/3-politica-de-contribuicao
 
-* test/(#issue-id)-(test-name) - Referencia alteração ou adição de testes. Exemplo: test/4-testes-unitatios
+* test/(issue-id)-(test-name) - Referencia alteração ou adição de testes. Exemplo: test/4-testes-unitatios
 
-* build/(#issue-id)-(build-name) - Referencia alterações em arquivos de build e dependências. Exemplo: build/5-build-frontend
+* build/(issue-id)-(build-name) - Referencia alterações em arquivos de build e dependências. Exemplo: build/5-build-frontend
 
-* perf/(#issue-id)-(perf-name) - Referencia alterações de código que estejam relacionadas a performance. Exemplo: perf/6-perfomance-frontend
+* perf/(issue-id)-(perf-name) - Referencia alterações de código que estejam relacionadas a performance. Exemplo: perf/6-perfomance-frontend
 
-* style/(#issue-id)-(style-name) - Referencia alterações referentes a formatações de código, semicolons, trailing spaces, lint... (Não inclui alterações em código). Exemplo: style/7-tela-login
+* style/(issue-id)-(style-name) - Referencia alterações referentes a formatações de código, semicolons, trailing spaces, lint... (Não inclui alterações em código). Exemplo: style/7-tela-login
 
 * refactor/(#issue-id)-(refactor-name) - Indica refatorações que não alterem sua funcionalidade, como por exemplo, uma alteração no formato como é processada determinada parte da tela, mas que manteve a mesma funcionalidade, ou melhorias de performance devido a um code review. Exemplo: reafactor/8-login
 
@@ -105,7 +105,7 @@ O padrão de Conventional Commits (Commits Convencionais) é uma convenção pop
 
 Os padrões do Conventional Commits consistem em três partes principais em sua sintaxe: tipo, escopo e descrição. Aqui estão os elementos-chave do Conventional Commits Pattern:
 
-* Referência para Issue (Problema): Todos os commits devem estar relacionados a uma issue, e deve ser a parte inicial do commit.
+* Referência para Issue (Problema): Todos os commits devem estar relacionados a uma issue, e deve ser a parte inicial do commit. É importante colocar a issue entre parênteses, caso contrário isso dificulta a edição iterativa de comandos como rebase e amend.
 
 * Ação realizada: Descreve qual ação é realizada pelo commit. Exemplo: adiciona, remove, modifica, atualiza, entre outros. Os verbos devem estar no **PRESENTE DO INDICATIVO**.
 
@@ -114,8 +114,8 @@ Os padrões do Conventional Commits consistem em três partes principais em sua 
 * Descrição: É uma breve descrição da alteração feita no commit. Deve ser clara, concisa e descritiva o suficiente para que outros desenvolvedores possam entender o que foi feito naquele commit em particular.
 
 Por exemplo: 
-* "#123 - Adiciona funcionalidade de login" indica que foi adicionada uma nova funcionalidade de login 
-* "#124 - Corrige bug na validação de formulário" indica que um bug relacionado à validação de formulário foi corrigido.
+* "(#123) - Adiciona funcionalidade de login" indica que foi adicionada uma nova funcionalidade de login 
+* "(#124) - Corrige bug na validação de formulário" indica que um bug relacionado à validação de formulário foi corrigido.
 
 O uso consistente desses padrões de tipo, escopo e descrição nas mensagens de commit ajuda a criar um histórico de alterações claro, fácil de entender e rastreável, o que é especialmente útil em projetos de equipe, onde vários desenvolvedores estão trabalhando juntos. 
 
@@ -132,4 +132,5 @@ A sigla comumente usada para validar um review de pull request no GitHub é "LGT
 
 | Data | Versão | Descrição | Autor(es) | Revisor(es) |
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
-15/04/2023 | 0.1.0 | Criação do documento | Victor Samuel dos Santos Lucas | Arthur Sena, Sérgio Cipriano, Vinicius Vieira e Peniel Etèmana 
+| 15/04/2023 | 0.1.0 | Criação do documento | Victor Samuel dos Santos Lucas | Arthur Sena, Sérgio Cipriano, Vinicius Vieira e Peniel Etèmana |
+| 15/04/2023 | 0.1.1 | Melhoria na política de branches e commits | Sérgio Cipriano | Arthur Sena, Victor Samuel dos Santos Lucas |
