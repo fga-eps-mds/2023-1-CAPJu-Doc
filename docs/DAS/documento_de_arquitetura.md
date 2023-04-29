@@ -24,6 +24,8 @@
 * API (Application Programming Interface): Ela é um conjunto de definições e protocolos usado no desenvolvimento e na integração de software de aplicações, permitindo que um serviço interaja com outros produtos e serviços sem a necessidade de saber como eles foram implementados.
 * CSS: Cascading Style Sheets
 * JSON: JavaScript Object Notation
+* DER: Diagrama Entidade-Relacionamento
+* DLD: Diagrama Lógico de Dados
 
 ## Visão Geral
 
@@ -48,9 +50,9 @@
 
 Das tecnologias:
 
-&emsp;&emsp;No frontend....
+&emsp;&emsp;No nosso [frontend](https://github.com/fga-eps-mds/2023-1-CAPJu-Front) foi utiliza o [TypeScript](https://www.typescriptlang.org/). É uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem. Também foram utilizado o [Jest](https://jestjs.io/pt-BR/) que é um poderoso Framework de Testes em JavaScript com um foco na simplicidade, o [Vite](https://vitejs.dev/), o [Shell](https://pt.wikipedia.org/wiki/Shell_(computa%C3%A7%C3%A3o)) e o [Makefile](https://www.inf.ufpr.br/roberto/ci067/15_make.html).
 
-&emsp;&emsp;No backend...
+&emsp;&emsp;No [backend](https://github.com/fga-eps-mds/2023-1-CAPJu-Services) do nosso projeto, utilizamos as tecnologias [Node.js](https://nodejs.org/pt-br/) que é um software de código aberto, multiplataforma, baseado no interpretador V8 do Google e que permite a execução de códigos JavaScript fora de um navegador web; o [Express](https://expressjs.com/pt-br/) que é um framework para aplicativo da web do Node.js mínimo e flexível que fornece um conjunto robusto de recursos para aplicativos web e móvel. Ele é o principal bloco de construção de aplicações web com JavaScript e Node.JS; o [PostgreSQL](https://www.postgresql.org/) que é um sistema gerenciador de banco de dados objeto relacional (SGBD), desenvolvido como projeto de código aberto. É um dos bancos mais populares, possuindo uma comunidade ativa; o [Docker](https://www.docker.com/) que é uma tecnologia open source que permite aos desenvolvedores empacotar, entregar e executar aplicações em containers leves e autossuficientes. Contém uma comunidade que sempre está trabalhando para melhorar essa tecnologia.
 
 ## Metas e Restrições da Arquitetura
 
@@ -74,7 +76,7 @@ Das tecnologias:
 
 &emsp;&emsp;O diagrama de pacotes é uma ferramenta da UML que apresenta a estrutura do sistema em relação aos pacotes utilizados em sua organização. Por meio desse artefato, é possível obter uma visão hierárquica dos elementos da aplicação. O diagrama de pacotes é composto por diferentes elementos, como pacotes, elementos empacotados, dependências, importações de elementos e pacotes, bem como a mesclagem de pacotes. 
 
-![Diagrama de pacotes](../assets/diagrama_de_pacotes.drawio)
+![Diagrama de pacotes](../assets/diagrama_de_pacotes.png)
 <figcaption>Figura 1 Imagem que contém o diagrama de pacote.</figcaption>
 
 ## Visão de implementação
@@ -117,3 +119,4 @@ Das tecnologias:
 | Data | Versão | Descrição | Autor(es)|
 | ----- | ---- | ---- |  ---- |
 | 27/04/2023 | 1.0 | Criação do Documento | Peniel Etèmana, Rodrigo Lima, Artur Fontinele,  Oscar de Brito,  Harryson Martins, Leandro  Oliveira|
+| 29/04/2023 | 1.1 | Atualização do documento e diagramas | Flávio de Melo, Peniel Etèmana, Rodrigo Lima, Sergio Cipriano, Wellington Jonathan, Yan Paulo |
