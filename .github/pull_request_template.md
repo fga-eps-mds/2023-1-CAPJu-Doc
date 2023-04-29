@@ -1,7 +1,7 @@
 ## Issue
 <!-- Descrever qual issue esse Pull Requeste deve fechar  -->
 
-Closes atena-solutions/w2k#issue-number
+Closes fga-eps-mds/2023-1-CAPJu-Doc#issue_number
 
 ## Descrição
 
