@@ -11,3 +11,9 @@ nav:
     - Politica de Contribuição: politica_de_contribuicao.md
     - Relatório de Eventos: Relatórios/relatorios_do_projeto.md
     - EAP : estrutura_analitica_do_projeto.md
+    - Visão do Produto: VisaoProduto/visao_do_produto.md
+    - Controle da equipe: 
+        - Quadro de conhecimento: Controle/quadro_de_conhecimento.md
+        - Quadro de disponibilidade: Controle/quadro_de_disponibilidade.md
+        - Quadro de pareamento: Controle/quadro_de_pareamento.md
+        - Cronograma de dojo: Controle/cronograma_de_dojo.md
