@@ -1,22 +1,40 @@
-# Planejamento de Custos
-Esse documento descreve os custos planejados para o desenvolvimento do projeto. São levadas em conta as remunerações de [estagiários de desenvolvimento](https://www.glassdoor.com.br/Sal%C3%A1rios/estagi%C3%A1rio-desenvolvedor-sal%C3%A1rio-SRCH_KO0,24.htm) e [engenheiros de *software*](https://www.glassdoor.com.br/Sal%C3%A1rios/software-developer-sal%C3%A1rio-SRCH_KO0,18.htm), no período entre 24/04/2023 e 26/07/2023, no qual ocorreram três meses.
+# Planejamento de Custos 
 
-## Planilha de Custos Gerais Planejados
-Considerando que o projeto conta com 10 alunos de MDS (Métodos de Desenvolvimento de *Software*) e 8 alunos de EPS (Engenharia de Produto de *Software*), fora decidido dividir o custo considerando que cada aluno de MDS é um estagiário de desenvolvimento e cada EPS um engenheiro de *software*.
+Esse documento descreve os custos planejados para o desenvolvimento do projeto. O custo é baseado numa Nota Técnica do Ministério da Educação, [Apuração do custo das Universidades Federais, e sua relação com os respectivos quantitativos de alunos](http://www.forplad.andifes.org.br/sites/default/files/forplad/comissaoplanejamento/NT_04-2018_e_anexos_-_apura%C3%A7%C3%A3o_do_custo_das_universidades.pdf), que resulta em R$ 38.806,00 por ano. 
 
-Segundo o site de busca de empregos [*glassdoor*](https://www.glassdoor.com.br/), a média de remuneração mensal para cada cargo acima é de  R$ 1.436,00 para estagiários de desenvolvimento para jornadas de 30h semanais, e R$ 7.300,00 para engenheiros de *software* para jornadas de 40h semanais.
+## Planilha de Custos Gerais Planejados 
 
-Tendo tais valores como base, e estimando um total de 20h semanais de contribuição de cada estudante, fora construida a planilha de custos estimados abaixo:
+Para o projeto atual contamos com 10 alunos de MDS (Métodos de Desenvolvimento de *Software*) e 7 alunos de EPS (Engenharia de Produto de *Software*), ou seja, 17 alunos da UNB, e estimamos um total de 15h semanais de contribuição de cada estudante. 
 
-<iframe height=700 width=3000 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQrKjqE8OL75o37ep6-bq66D_a15p7WIWworVV4GwoOlCh0U8NUksXIsxJIBDplNaDcuy2weM74OPO/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+Para equipamentos para a equipe consideramos um custo de R$ 2.903,99 por notebook para cada integrante. 
 
-# Histórico de versão
-| Data | Versão | Descrição | Autor(es)|
-| ----- | ---- | ---- |  ---- |
-| 24/04/2023 | 1.0 | Criação do Documento | Rodrigo Lima |
+Além do custo de R$ 0,69871000 por kW/h para atividades comerciais, de serviço e outras. 
 
-# Referencias
-- Salários do cargo de Software Developer – Brasil. Disponível em:
-<https://www.glassdoor.com.br/Sal%C3%A1rios/software-developer-sal%C3%A1rio-SRCH_KO0,18.htm>. Acesso em 24 de abril de 2023.
+Para Internet, consideramos os dados de custo da ICT de 2022, que indica um custo médio de U$ 20,32 por mês. Para a conversão ao Real, utilizamos a conversão utilizamos os dados do Banco Central do Brasil do mês de maio de 2023, que foi de U$ 1 - R$ 5,0221, sendo assim o custo mensal foi de R$ 102,05 por aluno 
 
-- Salários do cargo de Estagiário Desenvolvedor – Brasil. Disponível em: <https://www.glassdoor.com.br/Sal%C3%A1rios/estagi%C3%A1rio-desenvolvedor-sal%C3%A1rio-SRCH_KO0,24.htm>. Acesso em 24 de abril de 2023.
+A partir das informações mencionadas, construiu-se a planilha de custos estimados do projeto: 
+
+<iframe height=700 width=3000 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQrKjqE8OL75o37ep6-bq66D_a15p7WIWworVV4GwoOlCh0U8NUksXIsxJIBDplNaDcuy2weM74OPO/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> 
+
+ 
+
+# Histórico de versão 
+
+| Data | Versão | Descrição | Autor(es)| 
+| ----- | ---- | ---- | ---- | 
+| 24/04/2023 | 1.0 | Criação do Documento | Rodrigo Lima | 
+| 03/05/2023 | 1.1 | Correção na estimativa de custos | Peniel Etèmana Rodrigo Lima | 
+
+ 
+
+# Referencias 
+
+> BRASIL. Ministério da Educação. Secretaria Executiva. Nota Técnica MEC/SE Nº 4/2018 - Apuração do custo das Universidades Federais, e sua relação com os respectivos quantitativos de alunos. Brasília, 22 de fevereiro de 2018. Disponível em: [link](http://www.forplad.andifes.org.br/sites/default/files/forplad/comissaoplanejamento/NT_04-2018_e_anexos_-_apura%C3%A7%C3%A3o_do_custo_das_universidades.pdf). Acesso em: 03 de maio de 2023. 
+ 
+> NEOENERGIA BRASILIA VIGÊNCIA: 03/11/2022 a 21/10/2023 RESOLUÇÃO HOMOLOGATÓRIA Nº 3.134 DE 1º de Novembro de 2021. TABELA DE TARIFAS DE ENERGIA ELÉTRICA GRUPO B: [link](https://www.neoenergiabrasilia.com.br/residencial-e-rural/Documents/tafiras%20vigentes/01_nbsb_tarifas_energia_eletrica_grupoB_nov_2022_reh3134.pdf). Acesso em: 03 de maio de 2023. 
+
+> Lenovo. IdeaPad 3 15. Disponível em: [link](https://www.lenovo.com/br/pt/laptops/ideapad/serie-300/IdeaPad-3-15ALC6/p/82MFS00000). Acesso em: 03 de maio de 2023. 
+
+> Banco Central do Brasil. Histórico de cotações. Disponível em: [link](https://www.bcb.gov.br/estabilidadefinanceira/historicocotacoes). Acesso em: 03 de maio de 2023. 
+
+> ICT. ICT Price Baskets (IPB). Disponível em: [link](https://www.itu.int/en/ITU-D/Statistics/Dashboards/Pages/IPB.aspx). Acesso em: 03 de maio de 2023. 
