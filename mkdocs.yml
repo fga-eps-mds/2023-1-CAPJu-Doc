@@ -9,6 +9,7 @@ theme:
 nav:
     - Sobre: index.md
     - Politica de Contribuição: politica_de_contribuicao.md
+    - Planejamento de Custos: custos.md
     - Relatório de Eventos: Relatórios/relatorios_do_projeto.md
     - EAP : estrutura_analitica_do_projeto.md
     - Visão do Produto: VisaoProduto/visao_do_produto.md
