@@ -43,6 +43,8 @@ Com base nessa análise, O Plano de Gerenciamento de Riscos visa realizar uma li
 | R012 | Indisponibilidade dos membros de EPS	| Alto| Planejar menos pontos para membros indisponíveis	| Conversar com cada squad para decidir horários de pareamento |
 | R013 | Falta de comunicação	| Alto | Realizar dailies e reuniões de review e planejamento	 |Reuniões extras para melhorar a comunicação entre os membros |
 | R014 | Falta de comprometimento dos Integrantes | Muito Alto| Manter envolvimento e motivação dos membros no projeto | Conversar com membros para deixá-los mais motivados |
+| R015 | Dificuldade de comunicação com cliente | Muito Alto | Procurar realizar reuniões semanalmente com o cliente | Estabelecer um cronograma regular de reuniões com o cliente, definir claramente as responsabilidades e canais de comunicação, alem de documentar todas as comunicações.  |
+| R016 | Falta de validação de artefatos com cliente| Muito Alto | Estar alinhado com as necessidades e objetivos do cliente | Implementar um processo formal de revisão e aprovação de artefatos com o cliente, que envolve a definição clara dos requisitos do cliente para cada artefato, a identificação do processo de revisão e aprovação, e a designação de responsabilidades claras para cada etapa do processo. |
 
 
 ## Referências
