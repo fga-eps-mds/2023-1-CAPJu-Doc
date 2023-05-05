@@ -53,4 +53,4 @@ DevMedia. Gerência de riscos em desenvolvimento de software. Disponível em: <h
 
 | Data | Versão | Descrição | Autor(es) 
 | ------------- | ------------- | ------------- | ------------- 
-| 05/03/2023 | 0.1.0 | Criação do documento | Victor Samuel dos Santos Lucas 
+| 05/05/2023 | 0.1.0 | Criação do documento | Victor Samuel dos Santos Lucas 
