@@ -20,7 +20,14 @@ Nível 3: O nível 3 da EAP é composto pelas atividades de baixo nível do proj
 
 ## Diagrama da Estrutura Analítica do Projeto - EAP
 
-![Estrutura Analítica do Projeto - EAP](/assets/eap.png)
+<!-- ![Estrutura Analítica do Projeto - EAP](/assets/eap.png) <!Imagem deve ser comentada-->
+
+<iframe src='https://viewer.diagrams.net/index.html?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20sem%20nome.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1oYL0xXgyENQlLD2BdEAssp13sW_emrVK%26export%3Ddownload'
+        width='100%'
+        height='480px'
+        style='min-width: 640px; min-height: 480px; background-color: #f4f4f4; border: 1px solid #efefef'
+        sandbox='allow-same-origin allow-scripts allow-modals allow-popups allow-popups-to-escape-sandbox'>
+</iframe>
 
 ## Referências
 
@@ -33,3 +40,4 @@ PMI. PMBOK® Guide. Disponível em: <https://www.pmi.org/pmbok-guide-standards/f
 | Data | Versão | Descrição | Autor(es) 
 | ------------- | ------------- | ------------- | ------------- 
 | 29/04/2023 | 0.1.0 | Criação do documento | Rodrigo Tiago Costa Lima e Victor Samuel dos Santos Lucas 
+| 06/05/2023 | 0.1.0 | Alteração pra Iframe | Wellington Jonathan 
