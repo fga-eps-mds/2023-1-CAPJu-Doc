@@ -76,7 +76,7 @@ Das tecnologias:
 
 &emsp;&emsp;O diagrama de pacotes é uma ferramenta da UML que apresenta a estrutura do sistema em relação aos pacotes utilizados em sua organização. Por meio desse artefato, é possível obter uma visão hierárquica dos elementos da aplicação. O diagrama de pacotes é composto por diferentes elementos, como pacotes, elementos empacotados, dependências, importações de elementos e pacotes, bem como a mesclagem de pacotes. 
 
-![Diagrama de pacotes](../assets/diagrama_de_pacotes.png)
+<iframe src="https://i.ibb.co/CvRBxxm/diagrama-de-pacotes.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
 <figcaption>Figura 1 Imagem que contém o diagrama de pacote.</figcaption>
 
 ## Visão de implementação
@@ -90,7 +90,7 @@ Das tecnologias:
 
 &emsp;&emsp;Ao utilizar o DER, é possível modelar os dados de forma mais clara e precisa, facilitando o entendimento do sistema e permitindo a criação de um banco de dados eficiente e organizado. Além disso, ele pode ser utilizado como uma ferramenta de comunicação entre a equipe de desenvolvimento e os stakeholders do projeto, permitindo que todos tenham uma visão clara dos dados que serão manipulados pelo sistema.
 
-![DER](../assets/DER.png)
+<iframe src="https://i.ibb.co/1bppcV8/DER.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
 <figcaption>Figura 2 Imagem que contém o diagrama de Entidade-Relacionamento.</figcaption>
 
 
