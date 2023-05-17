@@ -4,12 +4,12 @@
 
 CAPJu é a sigla para "Controle e Acompanhamento de Processos da Justiça", um projeto de código aberto com o propósito de auxiliar os usuários de diversas Varas da Justiça Federal na gestão de processos legais.
 
-Este repositório contém exclusivamente a documentação do projeto, a qual é predominantemente em Português do Brasil, visando atender aos interesses do público-alvo.
+Este repositório contém exclusivamente a documentação do projeto, a qual é predominantemente em português do Brasil, visando atender aos interesses do público-alvo.
 
 O CAPJu é uma aplicação web compatível com todos os navegadores.
+<br/><br/>
 
-
-# Integrantes do time
+## Integrantes do time
 
 ## MDS
 | Foto                                                                         | Nome                                | Matrícula | GitHub                                               |
@@ -24,7 +24,7 @@ O CAPJu é uma aplicação web compatível com todos os navegadores.
 | <img src="https://avatars.githubusercontent.com/u/90487905?v=4    " width="100"> | Leandro de Almeida    | 211030827 | [@leomitx10](https://github.com/leomitx10)       |
 | <img src="https://avatars.githubusercontent.com/u/98489703?v=4" width="100"> | Oscar de Brito                     | 211031790 | [@OscarDeBrito](https://github.com/OscarDeBrito) 
 | <img src="https://avatars.githubusercontent.com/u/83103936?v=4" width="100"> | Yan Werlley             | 211030649 | [@YanWerlley](https://github.com/YanWerlley) |
-
+<br/><br/>
 ## EPS
 | Foto                                                                         | Nome                                | Matrícula | GitHub                                               |
 | ---------------------------------------------------------------------------- | ----------------------------------- | --------- | ---------------------------------------------------- |
