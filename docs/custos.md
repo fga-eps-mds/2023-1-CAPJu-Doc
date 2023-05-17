@@ -10,7 +10,7 @@ Para equipamentos para a equipe consideramos um custo de R$ 2.903,99 por noteboo
 
 Além do custo de R$ 0,69871000 por kW/h para atividades comerciais, de serviço e outras. 
 
-Para Internet, consideramos os dados de custo da ICT de 2022, que indica um custo médio de U$ 20,32 por mês. Para a conversão ao Real, utilizamos a conversão utilizamos os dados do Banco Central do Brasil do mês de maio de 2023, que foi de U$ 1 - R$ 5,0221, sendo assim o custo mensal foi de R$ 102,05 por aluno 
+O custo para utilização de Internet foi calculado em R$ 102,05 por aluno mensalmente, para tal foi considerado os dados disponibilizados pela  ICT de 2022, que indica um custo médio de internet em U$ 20,32 por mês. Para a conversão ao Real, utilizamos a conversão utilizando os dados do Banco Central do Brasil do mês de maio de 2023, que foi de U$ 1 - R$ 5,0221.
 
 A partir das informações mencionadas, construiu-se a planilha de custos estimados do projeto: 
 
