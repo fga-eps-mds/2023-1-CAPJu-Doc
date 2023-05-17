@@ -14,7 +14,8 @@ Para Internet, consideramos os dados de custo da ICT de 2022, que indica um cust
 
 A partir das informações mencionadas, construiu-se a planilha de custos estimados do projeto: 
 
-<iframe height=700 width=3000 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQrKjqE8OL75o37ep6-bq66D_a15p7WIWworVV4GwoOlCh0U8NUksXIsxJIBDplNaDcuy2weM74OPO/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> 
+<iframe width=100% height=700 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQrKjqE8OL75o37ep6-bq66D_a15p7WIWworVV4GwoOlCh0U8NUksXIsxJIBDplNaDcuy2weM74OPO/pubhtml?widget=true&amp;headers=false%22%3E"></iframe>
+
 
  
 
@@ -24,7 +25,8 @@ A partir das informações mencionadas, construiu-se a planilha de custos estima
 | ----- | ---- | ---- | ---- | 
 | 24/04/2023 | 1.0 | Criação do Documento | Rodrigo Lima | 
 | 03/05/2023 | 1.1 | Correção na estimativa de custos | Peniel Etèmana Rodrigo Lima | 
-| 17/05/2023 | 1.2 | Correçao na estimativa de horas | Leandro Almeida | 
+| 17/05/2023 | 1.2 | Correção na estimativa de horas | Leandro de A. Oliveira | 
+| 17/05/2023 | 1.3 | Correção na tabela de custos | Harryson C. Martins |
 
  
 
