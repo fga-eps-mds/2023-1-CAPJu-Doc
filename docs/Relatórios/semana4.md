@@ -1,4 +1,4 @@
-# Semana 3
+# Semana 4
 ## Visão geral
 **Data de Inicio:** 24/04/2023
 
@@ -82,9 +82,7 @@ usuário)
                 - Arthur Sena
                 - Sérgio
                 - Victor
-
-            
-        
+                
 **Redator**: Vinícius Vieira de Souza
 
 ## Issues Concluidas
