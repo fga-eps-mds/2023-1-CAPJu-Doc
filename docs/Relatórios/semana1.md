@@ -11,7 +11,7 @@
 | Papel | Membro |
 | ----- | ------ |
 | Professor | Hilmer Rodrigues Neri |
-| Cliente | Wellington José Barbosa Carlos
+| Cliente | Wellington José Barbosa Carlos |
 | EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Rodrigues | 
 | MDS | Ana Cavalcanti, Artur Fontinele, Flávio Melo, Guilherme Gonçalves, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
 
