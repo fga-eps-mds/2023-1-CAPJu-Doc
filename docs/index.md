@@ -1,6 +1,4 @@
-# CAPJu
-
-## Sobre o projeto
+<img src="https://capju.netlify.app/logo.png" width="150">
 
 CAPJu é a sigla para "Controle e Acompanhamento de Processos da Justiça", um projeto de código aberto com o propósito de auxiliar os usuários de diversas Varas da Justiça Federal na gestão de processos legais.
 
@@ -24,7 +22,7 @@ O CAPJu é uma aplicação web compatível com todos os navegadores.
 | <img src="https://avatars.githubusercontent.com/u/90487905?v=4    " width="100"> | Leandro de Almeida    | 211030827 | [@leomitx10](https://github.com/leomitx10)       |
 | <img src="https://avatars.githubusercontent.com/u/98489703?v=4" width="100"> | Oscar de Brito                     | 211031790 | [@OscarDeBrito](https://github.com/OscarDeBrito) 
 | <img src="https://avatars.githubusercontent.com/u/83103936?v=4" width="100"> | Yan Werlley             | 211030649 | [@YanWerlley](https://github.com/YanWerlley) |
-<br/><br/>
+
 ## EPS
 | Foto                                                                         | Nome                                | Matrícula | GitHub                                               |
 | ---------------------------------------------------------------------------- | ----------------------------------- | --------- | ---------------------------------------------------- |
@@ -35,6 +33,7 @@ O CAPJu é uma aplicação web compatível com todos os navegadores.
 | <img src="https://avatars.githubusercontent.com/u/52058094?v=4" width="100"> | Victor Samuel            | 180028685 | [@victordsantoss](https://github.com/victordsantoss)   |
 | <img src="https://avatars.githubusercontent.com/u/49957412?v=4" width="100"> | Vinícius Vieira           | 170115500 | [@faco400](https://github.com/faco400)   |
 | <img src="https://avatars.githubusercontent.com/u/217238?v=4" width="100"> | Wellington Jonathan             | 190048760 | [@wellpriz](https://github.com/wellpriz)   |
+
 
 ### Histórico de versão
 
