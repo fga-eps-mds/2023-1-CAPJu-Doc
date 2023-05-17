@@ -4,7 +4,7 @@ Esse documento descreve os custos planejados para o desenvolvimento do projeto. 
 
 ## Planilha de Custos Gerais Planejados 
 
-Para o projeto atual contamos com 10 alunos de MDS (Métodos de Desenvolvimento de *Software*) e 7 alunos de EPS (Engenharia de Produto de *Software*), ou seja, 17 alunos da UNB, e estimamos um total de 15h semanais de contribuição de cada estudante. 
+Para o projeto atual contamos com 10 alunos de MDS (Métodos de Desenvolvimento de *Software*) e 7 alunos de EPS (Engenharia de Produto de *Software*), ou seja, 17 alunos da UNB, e estimamos um total de 10h semanais de contribuição de cada estudante. 
 
 Para equipamentos para a equipe consideramos um custo de R$ 2.903,99 por notebook para cada integrante. 
 
@@ -24,6 +24,7 @@ A partir das informações mencionadas, construiu-se a planilha de custos estima
 | ----- | ---- | ---- | ---- | 
 | 24/04/2023 | 1.0 | Criação do Documento | Rodrigo Lima | 
 | 03/05/2023 | 1.1 | Correção na estimativa de custos | Peniel Etèmana Rodrigo Lima | 
+| 17/05/2023 | 1.2 | Correçao na estimativa de horas | Leandro Almeida | 
 
  
 
