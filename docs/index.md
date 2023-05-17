@@ -10,6 +10,8 @@ O CAPJu é uma aplicação web compatível com todos os navegadores.
 ## Integrantes do time
 
 ## MDS
+<br/>
+
 | Foto                                                                         | Nome                                | Matrícula | GitHub                                               |
 | ---------------------------------------------------------------------------- | ----------------------------------- | --------- | ---------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/122410504?v=4" width="100"> | Ana Karoliny                | 211031575 | [@AnaKarolinyCavalcanti](https://github.com/AnaKarolinyCavalcanti)                 |
@@ -33,6 +35,20 @@ O CAPJu é uma aplicação web compatível com todos os navegadores.
 | <img src="https://avatars.githubusercontent.com/u/52058094?v=4" width="100"> | Victor Samuel            | 180028685 | [@victordsantoss](https://github.com/victordsantoss)   |
 | <img src="https://avatars.githubusercontent.com/u/49957412?v=4" width="100"> | Vinícius Vieira           | 170115500 | [@faco400](https://github.com/faco400)   |
 | <img src="https://avatars.githubusercontent.com/u/217238?v=4" width="100"> | Wellington Jonathan             | 190048760 | [@wellpriz](https://github.com/wellpriz)   |
+
+
+
+
+## Repositórios
+
+- [Documentação](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc)
+- [Services](https://github.com/fga-eps-mds/2023-1-CAPJu-Services)
+-  [Front-end](https://github.com/fga-eps-mds/2023-1-CAPJu-Front)
+- [User](https://github.com/fga-eps-mds/2023-1-CAPJu-User)
+
+<br/><br/>
+
+
 
 
 ### Histórico de versão
