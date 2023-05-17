@@ -114,8 +114,8 @@ Os padrões do Conventional Commits consistem em três partes principais em sua 
 * Descrição: É uma breve descrição da alteração feita no commit. Deve ser clara, concisa e descritiva o suficiente para que outros desenvolvedores possam entender o que foi feito naquele commit em particular.
 
 Por exemplo: 
-* "(#123) - Adiciona funcionalidade de login" indica que foi adicionada uma nova funcionalidade de login 
-* "(#124) - Corrige bug na validação de formulário" indica que um bug relacionado à validação de formulário foi corrigido.
+* "(fga-eps-mds/2023-1-CAPJu-Doc#123) - Adiciona funcionalidade de login" indica que foi adicionada uma nova funcionalidade de login 
+* "(fga-eps-mds/2023-1-CAPJu-Doc#124) - Corrige bug na validação de formulário" indica que um bug relacionado à validação de formulário foi corrigido.
 
 O uso consistente desses padrões de tipo, escopo e descrição nas mensagens de commit ajuda a criar um histórico de alterações claro, fácil de entender e rastreável, o que é especialmente útil em projetos de equipe, onde vários desenvolvedores estão trabalhando juntos. 
 
