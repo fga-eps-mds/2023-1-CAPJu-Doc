@@ -82,7 +82,7 @@ deve ser padronizado
 | Papel | Membro |
 | ----- | ------ |
 | EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Rodrigues | 
-| MDS |  Ana Cavalcanti, Artur Fontinele, Flávio Melo,Guilherme Gonçalves, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
+| MDS |  Ana Cavalcanti, Artur Fontinele, Flávio Melo, Guilherme Gonçalves, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
 
 - Assuntos abordados:
     - Rastreamento do Lean Inception realizado pelo time do semestre anterior
@@ -99,6 +99,42 @@ deve ser padronizado
         
 **Redator**: Victor Samuel dos Santos Lucas
 
+### Reunião dia 20/04/2023
+| Papel | Membro |
+| ----- | ------ |
+| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Rodrigues | 
+| MDS | Artur Fontinele, Flávio Melo, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto|
+
+- Assuntos abordados:
+    - Atualização das últimas atividades
+    - Ambientação dos MDS 
+    - Continuação explicação Git
+    - Pontuação da Atividade 6: Brainstorming de Funcionalidades
+        - Foi pontuado pelo grupo as funcionalidades selecionadas a fim de iniciar o
+sequenciador
+        
+**Redator**: Wellington Jonathan Rodrigues
+
+### Reunião dia 21/04/2023
+| Papel | Membro |
+| ----- | ------ |
+| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza | 
+| MDS | Ana Cavalcanti, Artur Fontinele, Flávio Melo, Guilherme Gonçalves, Gustavo Sorte Leandro Oliveira, Oscar Neto|
+
+- Assuntos abordados:
+    - Discussão sobre arquitetura do projeto com foco no backend
+        - Backend (Realização do diagrama de pacotes)
+    - Elaboração do MER e DER
+    - Perguntas levantadas:
+        - A perguntar monitor:
+            - O que é o atributo effectiveDate no process?
+        - A perguntar wellington:
+            - Qual é o papel de administrador da unidade?
+            - Pode existir o mesmo fluxo para duas unidades?
+        - Discutir com o grupo sobre “ROLE”
+        
+**Redator**: Vinícius Vieira de Souza
+
 ## Issues Concluidas
 | Issue | Responsáveis(s) |
 | ----- | ---------------- |
@@ -112,4 +148,5 @@ deve ser padronizado
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
-| 17/05/2023 | 1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves|
+| 17/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves|
+| 17/05/2023 | 0.1.1 | Atualização nas Reuniões realizadas | Ana Cavalcanti e Guilherme Gonçalves |
