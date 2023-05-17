@@ -9,12 +9,12 @@ Este repositório contém exclusivamente a documentação do projeto, a qual é 
 O CAPJu é uma aplicação web compatível com todos os navegadores.
 
 
-## Integrantes do grupo
+# Integrantes do time
 
+## MDS
 | Foto                                                                         | Nome                                | Matrícula | GitHub                                               |
 | ---------------------------------------------------------------------------- | ----------------------------------- | --------- | ---------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/122410504?v=4" width="100"> | Ana Karoliny                | 211031575 | [@AnaKarolinyCavalcanti](https://github.com/AnaKarolinyCavalcanti)                 |
-| <img src="https://avatars.githubusercontent.com/u/49957403?v=4" width="100"> | Arthur Sena             | 180030345 | [@senaarth](https://github.com/senaarth)   |
 | <img src="https://avatars.githubusercontent.com/u/100738244?v=4" width="100"> | Artur Jackson                   | 211030943 | [@artur-jack](https://github.com/artur-jack)           |
 | <img src="https://avatars.githubusercontent.com/u/91036264?v=4" width="100"> | Flávio Gustavo| 211030602 | [@flavioovatsug](https://github.com/flavioovatsug)     |
 | <img src="https://avatars.githubusercontent.com/u/92813703?v=4" width="100"> | Guilherme de Sá    | 211031056 | [@GuilhermeDSa1013](https://github.com/GuilhermeDSa1013)             |
@@ -22,14 +22,19 @@ O CAPJu é uma aplicação web compatível com todos os navegadores.
 | <img src="https://avatars.githubusercontent.com/u/129622482?v=4" width="100"> | Harryson Campos               | 211039466 | [@harry-cmartin ](https://github.com/harry-cmartin)                 |
 | <img src="https://avatars.githubusercontent.com/u/96394878?v=4" width="100"> | Juan Pablo              | 211041043 | [@Juan-Ricarte](https://github.com/Juan-Ricarte)           |
 | <img src="https://avatars.githubusercontent.com/u/90487905?v=4    " width="100"> | Leandro de Almeida    | 211030827 | [@leomitx10](https://github.com/leomitx10)       |
-| <img src="https://avatars.githubusercontent.com/u/98489703?v=4" width="100"> | Oscar de Brito                     | 211031790 | [@OscarDeBrito](https://github.com/OscarDeBrito) |
+| <img src="https://avatars.githubusercontent.com/u/98489703?v=4" width="100"> | Oscar de Brito                     | 211031790 | [@OscarDeBrito](https://github.com/OscarDeBrito) 
+| <img src="https://avatars.githubusercontent.com/u/83103936?v=4" width="100"> | Yan Werlley             | 211030649 | [@YanWerlley](https://github.com/YanWerlley) |
+
+## EPS
+| Foto                                                                         | Nome                                | Matrícula | GitHub                                               |
+| ---------------------------------------------------------------------------- | ----------------------------------- | --------- | ---------------------------------------------------- |
+<img src="https://avatars.githubusercontent.com/u/49957403?v=4" width="100"> | Arthur Sena             | 180030345 | [@senaarth](https://github.com/senaarth)   |
 | <img src="https://avatars.githubusercontent.com/u/78034696?v=4" width="100"> | Peniel  Zannoukou           | 180011308 | [zpeniel09](https://github.com/zpeniel09)   |
 | <img src="https://avatars.githubusercontent.com/u/48688714?v=4" width="100"> | Rodrigo Lima            | 180037242 | [@RodrigoTCLima](https://github.com/RodrigoTCLima)   |
 | <img src="https://avatars.githubusercontent.com/u/36544528?v=4" width="100"> | Sérgio de Almeida       | 180037439 | [@sergiosacj](https://github.com/sergiosacj)   |
 | <img src="https://avatars.githubusercontent.com/u/52058094?v=4" width="100"> | Victor Samuel            | 180028685 | [@victordsantoss](https://github.com/victordsantoss)   |
 | <img src="https://avatars.githubusercontent.com/u/49957412?v=4" width="100"> | Vinícius Vieira           | 170115500 | [@faco400](https://github.com/faco400)   |
 | <img src="https://avatars.githubusercontent.com/u/217238?v=4" width="100"> | Wellington Jonathan             | 190048760 | [@wellpriz](https://github.com/wellpriz)   |
-| <img src="https://avatars.githubusercontent.com/u/83103936?v=4" width="100"> | Yan Werlley             | 211030649 | [@YanWerlley](https://github.com/YanWerlley)   |
 
 ### Histórico de versão
 
