@@ -4,6 +4,38 @@
 
 **Data de Término:** 07/05/2023
 
+## Atividades realizadas
+### Reunião dia 02/05/2023
+**Participantes**
+
+| Papel | Membro |
+| ----- | ------ |
+| Cliente | Wellington José Barbosa Carlos |
+| Mentor |  Fernando Miranda |
+| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Rodrigues |
+| MDS | Ana Cavalcanti, Artur Fontinele, Flávio Melo, Guilherme Gonçalves, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
+
+- Assuntos abordados:
+   - Sequenciador (MVP)
+       - Preocupação com os testes. Cliente precisa de tempo para fazer teste
+de usabilidade
+   - Canvas MVP
+       - Colocar papéis em cada usuário
+       - Resultado esperado a aplicação funcionar
+       - Custo e cronograma talvez tenha que validar com cliente
+   - Backlog
+       - Administrador (Precisa para cadastrar a parte inicial, primeiras
+unidades e diretores)
+       - Retroceder etapa! (Colocar aviso para usar funcionalidade em caso
+de erro/problema no processo)
+       - US14 -> Discutir melhor (Adicionar -> verificar status (andamento ou
+aquivado))
+       - US20 -> Realizar pesquisas de forma rápido por item (processo,
+etapa, fluxo)
+       - US27 -> Só administrador pode mapear as permissões
+
+**Redator**: Vinícius Vieira de Souza
+
 ## Issues Concluidas
 | Issue | Responsáveis(s) |
 | ----- | ---------------- |
@@ -19,3 +51,4 @@
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 17/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves|
+| 17/05/2023 | 0.1.1 | Atualização nas Reuniões realizadas| Ana Cavalcanti e Guilherme Gonçalves|
