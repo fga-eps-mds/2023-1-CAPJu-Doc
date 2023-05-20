@@ -14,6 +14,8 @@ nav:
     - EAP : estrutura_analitica_do_projeto.md
     - Backlog do Produto : backlog_do_produto.md
     - Visão do Produto: VisaoProduto/visao_do_produto.md
+    - DAS: DAS/documento_de_arquitetura.md
+    - Planejamento: planejamento.md
     - Controle da equipe: 
         - Quadro de conhecimento: Controle/quadro_de_conhecimento.md
         - Quadro de disponibilidade: Controle/quadro_de_disponibilidade.md
@@ -21,4 +23,3 @@ nav:
         - Cronograma de dojo: Controle/cronograma_de_dojo.md
         - Plano de gerenciamento de riscos: plano_de_gerenciamento_de_riscos.md
         - Ferramentas utilizadas pela equipe: ferramentas_utilizadas_pela_equipe.md
-    - Planejamento: planejamento.md
