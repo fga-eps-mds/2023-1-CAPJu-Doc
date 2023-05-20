@@ -113,9 +113,15 @@ Os padrões do Conventional Commits consistem em três partes principais em sua 
 
 * Descrição: É uma breve descrição da alteração feita no commit. Deve ser clara, concisa e descritiva o suficiente para que outros desenvolvedores possam entender o que foi feito naquele commit em particular.
 
-Por exemplo: 
-* "(#123) - Adiciona funcionalidade de login" indica que foi adicionada uma nova funcionalidade de login 
-* "(#124) - Corrige bug na validação de formulário" indica que um bug relacionado à validação de formulário foi corrigido.
+Com isso, para commits que referem-se a repositórios de documentação, seguem abaixo exemplos com o seu padrão:
+
+* "`(#123) - Adiciona funcionalidade de login`" indica que foi adicionada uma nova funcionalidade de login
+* "`(#124) - Corrige bug na validação de formulário`" indica que um bug relacionado à validação de formulário foi corrigido.
+
+Já para commits que referem-se a repositórios de código:
+
+* "`(fga-eps-mds/2023-1-CAPJu-Doc#123) - Adiciona funcionalidade de login`" indica que foi adicionada uma nova funcionalidade de login 
+* "`(fga-eps-mds/2023-1-CAPJu-Doc#124) - Corrige bug na validação de formulário`" indica que um bug relacionado à validação de formulário foi corrigido.
 
 O uso consistente desses padrões de tipo, escopo e descrição nas mensagens de commit ajuda a criar um histórico de alterações claro, fácil de entender e rastreável, o que é especialmente útil em projetos de equipe, onde vários desenvolvedores estão trabalhando juntos. 
 
@@ -134,3 +140,4 @@ A sigla comumente usada para validar um review de pull request no GitHub é "LGT
 | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 15/04/2023 | 0.1.0 | Criação do documento | Victor Samuel dos Santos Lucas | Arthur Sena, Sérgio Cipriano, Vinicius Vieira e Peniel Etèmana |
 | 15/04/2023 | 0.1.1 | Melhoria na política de branches e commits | Sérgio Cipriano | Arthur Sena, Victor Samuel dos Santos Lucas |
+| 17/05/2023 | 0.1.2 | Corrigindo o padrão de commits | Gustavo Sorte | Arthur Sena, Sérgio Cipriano |
