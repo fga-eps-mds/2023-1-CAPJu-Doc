@@ -14,7 +14,7 @@ O custo para utilização de Internet foi calculado em R$ 102,05 por aluno mensa
 
 A partir das informações mencionadas, construiu-se a planilha de custos estimados do projeto: 
 
-<iframe width=100% height=700 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQrKjqE8OL75o37ep6-bq66D_a15p7WIWworVV4GwoOlCh0U8NUksXIsxJIBDplNaDcuy2weM74OPO/pubhtml?widget=true&amp;headers=false%22%3E"></iframe>
+<iframe width=100% height=700 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQrKjqE8OL75o37ep6-bq66D_a15p7WIWworVV4GwoOlCh0U8NUksXIsxJIBDplNaDcuy2weM74OPO/pubhtml?widget=true&amp;headers=false"></iframe>
 
 
  
