@@ -33,7 +33,7 @@
 ### Reunião dia 11/04/2023
 | Papel | Membro |
 | ----- | ------ |
-| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Rodrigues | 
+| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Jonathan | 
 | MDS |  Ana Cavalcanti, Artur Fontinele, Flávio Melo,Guilherme Gonçalves, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
 
 - Assuntos abordados:
