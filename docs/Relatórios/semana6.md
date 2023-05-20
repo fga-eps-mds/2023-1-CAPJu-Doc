@@ -14,7 +14,7 @@
 | Cliente | Wellington José Barbosa Carlos |
 | Mentor |  Fernando Miranda |
 | Monitores | Ana Luiza, Chaydson Ferreira, Pedro Carvalho
-| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Rodrigues | 
+| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Jonathan | 
 | MDS | Ana Cavalcanti, Artur Fontinele, Flávio Melo, Guilherme Gonçalves, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
 
 - Assuntos abordados:
@@ -23,7 +23,7 @@
             Validado pelo cliente
     - Apresentação do RoadMap
         - Releases seguindo os Épicos do Backlog
-            - Preocupação do Wellington sobre o tempo para o teste da última release
+            - Preocupação do Wellington José sobre o tempo para o teste da última release
             - Falta de todos requisitos não funcionais para a visualização
                 - Por exemplo: Micro-Serviços, Arrumar CSS, mudar UX/AI, que são tópicos trabalhosos
     - Protótipo dos Épicos que apresentam mudanças de interface
@@ -31,7 +31,7 @@
             - Botão novo de lixeira
             - Confirmação para excluir
             - Alterou o nome administradores para diretores
-                - Wellington pediu para confirmar com ele o que teria de novo antes de apresentar na reunião de segunda
+                - Wellington José pediu para confirmar com ele o que teria de novo antes de apresentar na reunião de segunda
         - Backlog em planilha   
             - Professor pediu para integrar as USs no github já com os critérios
 de aceitação e os protótipos
@@ -42,7 +42,7 @@ de aceitação e os protótipos
 | Papel | Membro |
 | ----- | ------ |
 | Mentor |  Fernando Miranda |
-| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vníicius Souza, Wellington Rodrigues | 
+| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vníicius Souza, Wellington Jonathan | 
 | MDS |  Ana Cavalcanti, Flávio Melo, Guilherme Gonçalves, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
 
 - Assuntos abordados:
@@ -85,10 +85,11 @@ de aceitação e os protótipos
 | Issue | Responsáveis(s) |
 | ----- | ---------------- |
 |[Criar página de etapas](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/32)| Victor Lucas |
-|[Visão do Produto para Markdown](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/35)| Arthur Sena, Vníicius Souza, Wellington Rodrigues, Ana Cavalcanti, Guilherme Gonçalves, Gustava Sorte, Juan Pablo Ricarte |
-|[Criar documento de Estrutura Analítica do Projeto - EAP](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/38)| Victor Lucas, Wellington Rodrigues |
+|[Visão do Produto para Markdown](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/35)| Arthur Sena, Vníicius Souza, Wellington Jonathan, Ana Cavalcanti, Guilherme Gonçalves, Gustava Sorte, Juan Pablo Ricarte |
+|[Criar documento de Estrutura Analítica do Projeto - EAP](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/38)| Victor Lucas, Wellington Jonathan |
 
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 17/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves|
+| 17/05/2023 | 0.1.0 | Atualização do Documento | wellington Jonathan|
