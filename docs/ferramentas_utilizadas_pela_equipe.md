@@ -12,8 +12,10 @@ Este documento procura apresentar as ferramentas utilizadas pelo time ao longo d
  - [Visual Studio Code](https://code.visualstudio.com/) - IDE utilizada pela maioria do time.
  - [Live Share](https://visualstudio.microsoft.com/pt-br/services/live-share/) - Extensão para Visual Studio Code utilizada nos pareamentos.
  - [Netlify](https://www.netlify.com/) - Ferramenta utilizada para realizar o *deploy* da interface do sistema. 
+ - [SonarCloud](https://www.sonarsource.com/products/sonarcloud/) - Ferramenta para gerar métricas de um projeto baseadas em certos parâmetros.
 
 # Versionamento
 | Data | Autor(es) | Descrição | 
 | - | - | - |
 | 17/05/2023 | Rodrigo Lima | Criação do documento | 
+| 20/05/2023 | Rodrigo Lima | Adição do SonarCloud |
