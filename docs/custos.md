@@ -4,17 +4,18 @@ Esse documento descreve os custos planejados para o desenvolvimento do projeto. 
 
 ## Planilha de Custos Gerais Planejados 
 
-Para o projeto atual contamos com 10 alunos de MDS (Métodos de Desenvolvimento de *Software*) e 7 alunos de EPS (Engenharia de Produto de *Software*), ou seja, 17 alunos da UNB, e estimamos um total de 15h semanais de contribuição de cada estudante. 
+Para o projeto atual contamos com 10 alunos de MDS (Métodos de Desenvolvimento de *Software*) e 7 alunos de EPS (Engenharia de Produto de *Software*), ou seja, 17 alunos da UNB, e estimamos um total de 10h semanais de contribuição de cada estudante. 
 
 Para equipamentos para a equipe consideramos um custo de R$ 2.903,99 por notebook para cada integrante. 
 
 Além do custo de R$ 0,69871000 por kW/h para atividades comerciais, de serviço e outras. 
 
-Para Internet, consideramos os dados de custo da ICT de 2022, que indica um custo médio de U$ 20,32 por mês. Para a conversão ao Real, utilizamos a conversão utilizamos os dados do Banco Central do Brasil do mês de maio de 2023, que foi de U$ 1 - R$ 5,0221, sendo assim o custo mensal foi de R$ 102,05 por aluno 
+O custo para utilização de Internet foi calculado em R$ 102,05 por aluno mensalmente, para tal foi considerado os dados disponibilizados pela  ICT de 2022, que indica um custo médio de internet em U$ 20,32 por mês. Para a conversão ao Real, utilizamos a conversão utilizando os dados do Banco Central do Brasil do mês de maio de 2023, que foi de U$ 1 - R$ 5,0221.
 
 A partir das informações mencionadas, construiu-se a planilha de custos estimados do projeto: 
 
-<iframe height=700 width=3000 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQrKjqE8OL75o37ep6-bq66D_a15p7WIWworVV4GwoOlCh0U8NUksXIsxJIBDplNaDcuy2weM74OPO/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe> 
+<iframe width=100% height=700 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQrKjqE8OL75o37ep6-bq66D_a15p7WIWworVV4GwoOlCh0U8NUksXIsxJIBDplNaDcuy2weM74OPO/pubhtml?widget=true&amp;headers=false"></iframe>
+
 
  
 
@@ -24,6 +25,8 @@ A partir das informações mencionadas, construiu-se a planilha de custos estima
 | ----- | ---- | ---- | ---- | 
 | 24/04/2023 | 1.0 | Criação do Documento | Rodrigo Lima | 
 | 03/05/2023 | 1.1 | Correção na estimativa de custos | Peniel Etèmana Rodrigo Lima | 
+| 17/05/2023 | 1.2 | Correção na estimativa de horas | Leandro de A. Oliveira | 
+| 17/05/2023 | 1.3 | Correção na tabela de custos | Harryson C. Martins |
 
  
 
