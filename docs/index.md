@@ -1,4 +1,4 @@
-<img src="https://capju.netlify.app/logo.png" width="150">
+<img src="https://capju.netlify.app/assets/logo.png" width="150">
 
 CAPJu é a sigla para "Controle e Acompanhamento de Processos da Justiça", um projeto de código aberto com o propósito de auxiliar os usuários de diversas Varas da Justiça Federal na gestão de processos legais.
 
@@ -16,7 +16,7 @@ O CAPJu é uma aplicação web compatível com todos os navegadores.
 | ---------------------------------------------------------------------------- | ----------------------------------- | --------- | ---------------------------------------------------- |
 | <img src="https://avatars.githubusercontent.com/u/122410504?v=4" width="100"> | Ana Karoliny                | 211031575 | [@AnaKarolinyCavalcanti](https://github.com/AnaKarolinyCavalcanti)                 |
 | <img src="https://avatars.githubusercontent.com/u/100738244?v=4" width="100"> | Artur Jackson                   | 211030943 | [@artur-jack](https://github.com/artur-jack)           |
-| <img src="https://avatars.githubusercontent.com/u/91036264?v=4" width="100"> | Flávio Gustavo| 211030602 | [@flavioovatsug](https://github.com/flavioovatsug)     |
+| <img src="https://avatars.githubusercontent.com/u/91036264?v=4" width="100"> | Flávio Melo| 211030602 | [@flavioovatsug](https://github.com/flavioovatsug)     |
 | <img src="https://avatars.githubusercontent.com/u/92813703?v=4" width="100"> | Guilherme de Sá    | 211031056 | [@GuilhermeDSa1013](https://github.com/GuilhermeDSa1013)             |
 | <img src="https://avatars.githubusercontent.com/u/61592832?v=4" width="100"> | Gustavo França       | 211030774 | [@gustavofbs](https://github.com/gustavofbs)           |
 | <img src="https://avatars.githubusercontent.com/u/129622482?v=4" width="100"> | Harryson Campos               | 211039466 | [@harry-cmartin ](https://github.com/harry-cmartin)                 |
