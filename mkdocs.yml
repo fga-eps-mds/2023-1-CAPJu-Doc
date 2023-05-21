@@ -3,7 +3,7 @@ site_name: CAPJU DOCS
 theme:
     name: material
     language: pt
-    logo: https://capju.netlify.app/logo.png
+    logo: https://capju.netlify.app/assets/logo.png
     favicon: https://capju.netlify.app/logo.png
 
 nav:
