@@ -12,3 +12,4 @@ Treinamentos (Dojos) Executados / Planjedados:
 | 29/04/2023 | 1.0 | Criação do Documento | Gustavo Sorte, Juan Pablo, Vinícius Souza, Wellington Jonathan |
 | 08/05/2023 | 2.0 | Atualização do Documento | Gustavo Sorte, Guilherme de Sá, Ana Karoliny, Vinícius Souza |
 | 15/05/2023 | 3.0 | Adição de iFrames | Gustavo Sorte, Oscar de Brito, Vinícius Souza |
+| 21/05/2023 | 4.0 | Atualização do Documento | Juan Pablo |
