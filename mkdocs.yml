@@ -4,7 +4,7 @@ theme:
     name: material
     language: pt
     logo: https://capju.netlify.app/assets/logo.png
-    favicon: https://capju.netlify.app/logo.png
+    favicon: https://capju.netlify.app/assets/logo.png
 
 nav:
     - Sobre: index.md
