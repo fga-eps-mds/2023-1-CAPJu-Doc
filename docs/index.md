@@ -43,8 +43,8 @@ O CAPJu é uma aplicação web compatível com todos os navegadores.
 
 - [Documentação](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc)
 - [Services](https://github.com/fga-eps-mds/2023-1-CAPJu-Services)
--  [Front-end](https://github.com/fga-eps-mds/2023-1-CAPJu-Front)
-- [User](https://github.com/fga-eps-mds/2023-1-CAPJu-User)
+- [Service](https://github.com/fga-eps-mds/2023-1-CAPJu-Service)
+- [Front-end](https://github.com/fga-eps-mds/2023-1-CAPJu-Front)
 
 <br/><br/>
 
@@ -56,3 +56,4 @@ O CAPJu é uma aplicação web compatível com todos os navegadores.
 | Versão | Data       | Modificação          | Autor |
 | ------ | ---------- | -------------------- | -----|
 | 1.0    | 15/05/2023 | Criação do Documento | Oscar de Brito, Artur Jackson |
+| 3.0    | 21/05/2023 | Alteração de links   | Yan Werlley, Flávio Melo |
