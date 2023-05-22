@@ -12,7 +12,7 @@
 | ----- | ------ |
 | Cliente | Wellington José Barbosa Carlos |
 | Mentor |  Fernando Miranda |
-| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Rodrigues |
+| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Jonathan |
 | MDS | Ana Cavalcanti, Artur Fontinele, Flávio Melo, Guilherme Gonçalves, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
 
 - Assuntos abordados:
@@ -50,5 +50,6 @@ etapa, fluxo)
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
-| 17/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves|
-| 17/05/2023 | 0.1.1 | Atualização nas Reuniões realizadas| Ana Cavalcanti e Guilherme Gonçalves|
+| 17/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves |
+| 17/05/2023 | 0.1.1 | Atualização nas Reuniões realizadas| Ana Cavalcanti e Guilherme Gonçalves |
+| 21/05/2023 | 0.1.2 | Atualização do Documento | Ana Cavalcanti e Guilherme Gonçalves |

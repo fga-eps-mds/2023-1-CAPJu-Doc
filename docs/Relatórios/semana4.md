@@ -13,7 +13,7 @@
 | Professor | Hilmer Rodrigues Neri |
 | Cliente | Wellington José Barbosa Carlos |
 | Mentor |  Fernando Miranda |
-| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Rodrigues | 
+| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Jonathan | 
 | MDS | Ana Cavalcanti, Artur Fontinele, Flávio Melo, Guilherme Gonçalves, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
 
 - Assuntos abordados:
@@ -45,7 +45,7 @@ usuário)
 ### Reunião dia 25/04/2023
 | Papel | Membro |
 | ----- | ------ |
-| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Rodrigues | 
+| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Jonathan | 
 | MDS |  Ana Cavalcanti, Artur Fontinele, Flávio Melo, Guilherme Gonçalves, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
 
 - Assuntos abordados:
@@ -88,17 +88,18 @@ usuário)
 ## Issues Concluidas
 | Issue | Responsáveis(s) |
 | ----- | ---------------- |
-|[Atualizar mural do Lean Inception](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/5)| Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Rodrigues |
+|[Atualizar mural do Lean Inception](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/5)| Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Jonathan |
 |[Criação do novo repositório do frontend](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/21)| Arthur Sena |
 |[Criar tela de Recuperação de senha](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/25)| Arthur Sena, Victor Lucas|
 |[Criar página de cadastro](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/27)| Arthur Sena, Victor Lucas |
 |[Criar componente de abas de Navegação](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/28)| Arthur Sena, Victor Lucas |
 |[Criar página de edição de conta](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/30)| Arthur Sena, Victor Lucas |
-|[Quadros de Conhecimento e Pareamentos (MDS e EPS)](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/34)| Arthur Sena, Wellington Rodrigues |
+|[Quadros de Conhecimento e Pareamentos (MDS e EPS)](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/34)| Arthur Sena, Wellington Jonathan |
 |[Criar template para Pull Request](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/40)| Victor Lucas |
 |[Criar Issue e PR template para repositório de Serviços](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/43)| Sérgio Cipriano |
 
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
-| 17/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves|
+| 17/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves |
+| 21/05/2023 | 0.1.1 | Atualização do Documento | Ana Cavalcanti e Guilherme Gonçalves |

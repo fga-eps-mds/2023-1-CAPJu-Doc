@@ -1,4 +1,4 @@
-# Semana 6
+# Sprint 1
 ## Visão geral
 **Data de Inicio:** 08/05/2023
 
@@ -42,7 +42,7 @@ de aceitação e os protótipos
 | Papel | Membro |
 | ----- | ------ |
 | Mentor |  Fernando Miranda |
-| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vníicius Souza, Wellington Jonathan | 
+| EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Jonathan | 
 | MDS |  Ana Cavalcanti, Flávio Melo, Guilherme Gonçalves, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
 
 - Assuntos abordados:
@@ -85,11 +85,12 @@ de aceitação e os protótipos
 | Issue | Responsáveis(s) |
 | ----- | ---------------- |
 |[Criar página de etapas](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/32)| Victor Lucas |
-|[Visão do Produto para Markdown](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/35)| Arthur Sena, Vníicius Souza, Wellington Jonathan, Ana Cavalcanti, Guilherme Gonçalves, Gustava Sorte, Juan Pablo Ricarte |
+|[Visão do Produto para Markdown](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/35)| Arthur Sena, Vinícius Souza, Wellington Jonathan, Ana Cavalcanti, Guilherme Gonçalves, Gustava Sorte, Juan Pablo Ricarte |
 |[Criar documento de Estrutura Analítica do Projeto - EAP](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/38)| Victor Lucas, Wellington Jonathan |
 
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
-| 17/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves|
-| 17/05/2023 | 0.1.0 | Atualização do Documento | wellington Jonathan|
+| 17/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves |
+| 17/05/2023 | 0.1.1 | Atualização do Documento | wellington Jonathan |
+| 21/05/2023 | 0.1.2 | Atualização do Nome do Documento | Ana Cavalcanti e Guilherme Gonçalves |
