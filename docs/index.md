@@ -56,4 +56,5 @@ O CAPJu é uma aplicação web compatível com todos os navegadores.
 | Versão | Data       | Modificação          | Autor |
 | ------ | ---------- | -------------------- | -----|
 | 1.0    | 15/05/2023 | Criação do Documento | Oscar de Brito, Artur Jackson |
+| 2.0    | 21/05/2023 | Corrigindo imagens | Yan Werlley, Flávio Melo      |
 | 3.0    | 21/05/2023 | Alteração de links   | Yan Werlley, Flávio Melo |
