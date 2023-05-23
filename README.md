@@ -43,6 +43,12 @@ $ mkdocs serve
 ```
 OBS: Por padrão o site deverá estar rodando em http://127.0.0.1:8000/ ou http://localhost:8000/
 
+## Link Repositórios
+- [Documentação](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc)
+- [Services](https://github.com/fga-eps-mds/2023-1-CAPJu-Services)
+- [Service](https://github.com/fga-eps-mds/2023-1-CAPJu-Service)
+- [Front-end](https://github.com/fga-eps-mds/2023-1-Front)
+
 
 ## Contribuidores
 
