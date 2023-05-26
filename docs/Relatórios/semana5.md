@@ -43,6 +43,7 @@ etapa, fluxo)
 |[Criar componente de tabelas](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/29)| Arthur Sena, Victor Lucas |
 |[Criar página de solicitações e perfil de acesso](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/31)| Arthur Sena, Victor Lucas|
 |[Criar documento de backlog do produto](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/42)| Victor Lucas |
+|[Criar documento de Estrutura Analítica do Projeto - EAP](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/38)| Victor Lucas, Wellington Jonathan |
 |[Validar a role do usuário no backend para tratar vulnerabilidade de acesso](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/46)| Arthur Sena |
 |[Criar página de unidades e suas determinadas ações](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/47)| Arthur Sena |
 |[Atualizar template de pull request no novo repositório de FrontEnd](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/34)| Victor Lucas |
@@ -53,3 +54,4 @@ etapa, fluxo)
 | 17/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves |
 | 17/05/2023 | 0.1.1 | Atualização nas Reuniões realizadas| Ana Cavalcanti e Guilherme Gonçalves |
 | 21/05/2023 | 0.1.2 | Atualização do Documento | Ana Cavalcanti e Guilherme Gonçalves |
+| 25/05/2023 | 0.1.3 | Atualização do Documento | Guilherme Gonçalves |

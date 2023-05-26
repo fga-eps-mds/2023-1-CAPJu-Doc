@@ -43,6 +43,8 @@ usuário)
 **Redator**: Victor Samuel dos Santos Lucas e Vinícius Vieira de Souza
 
 ### Reunião dia 25/04/2023
+**Participantes**
+
 | Papel | Membro |
 | ----- | ------ |
 | EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Jonathan | 

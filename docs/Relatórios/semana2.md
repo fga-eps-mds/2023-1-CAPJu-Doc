@@ -31,6 +31,8 @@
 **Redator**: Victor Samuel dos Santos Lucas
 
 ### Reunião dia 11/04/2023
+**Participantes**
+
 | Papel | Membro |
 | ----- | ------ |
 | EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Jonathan | 
