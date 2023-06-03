@@ -13,7 +13,7 @@
 | Professor | Hilmer Rodrigues Neri |
 | Cliente | Wellington José Barbosa Carlos |
 | Mentor |  Fernando Miranda |
-| Monitores | Ana Luiza, Chaydson Ferreira, Pedro Carvalho
+| Monitores | Ana Luiza, Chaydson Ferreira, Pedro Carvalho |
 | EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Victor Lucas, Vinícius Souza, Wellington Jonathan | 
 | MDS | Ana Cavalcanti, Artur Fontinele, Flávio Melo, Guilherme Gonçalves, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte, Leandro Oliveira, Oscar Neto, Yan Paulo |
 

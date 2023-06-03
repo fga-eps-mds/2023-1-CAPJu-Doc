@@ -114,6 +114,8 @@ as da Unidade do Usuário
                 -  Avisar pro EndPoint para não retornar todas as Processos,
 só os da Unidade do Usuário
 
+**Redator**: Guilherme de Sá Gonçalves
+
 ## Issues Concluidas
 | Issue | Responsáveis(s) |
 | ----- | ---------------- |
