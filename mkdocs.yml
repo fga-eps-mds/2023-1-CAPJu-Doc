@@ -35,6 +35,8 @@ nav:
       - Backlog do Produto: backlog_do_produto.md
   - Comunicação:
       - Comunicação do time: comunicacao.md
+      - Rituais da Equipe:  rituais.md
+      - Guia do Facilitador: facilitador.md
       - Relatório de Eventos: 
         - Semana 1: Relatórios/semana1.md
         - Semana 2: Relatórios/semana2.md
