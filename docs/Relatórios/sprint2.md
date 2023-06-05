@@ -166,6 +166,11 @@ chamar da “FlowProcess”
 |[Alterar função que retorna de listagem de etapas para retornar apenas as da unidade do usuário](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/169)| Ana Cavalcanti, Artur Fontinele, Gustavo Sorte, Vinícius Souza, Wellington Jonathan |
 |[BUG - Visualizar Processo no Fluxo](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/174)| Arthur Sena, Artur Fontinele, Guilherme Gonçalves, Vinícius Souza, Wellington Jonathan |
 
+## Retrospectiva
+
+![RETRO](../assets/retro2.jpeg)
+![RETRO](../assets/retro2-1.jpeg)
+
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |

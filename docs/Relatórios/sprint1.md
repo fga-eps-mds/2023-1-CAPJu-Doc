@@ -154,8 +154,13 @@ só os da Unidade do Usuário
 |[Atualização do planejamento com atas](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/148)| Artur Fontinele, Oscar Neto, Vinícius Souza |
 |[Protótipo de baixa e alta fidelidade](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/152)| Wellington Jonathan |
 
+## Retrospectiva
+
+![RETRO](../assets/retro1.png)
+
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 21/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves |
 | 25/05/2023 | 0.1.1 | Atualização do Documento | Guilherme Gonçalves |
+| 04/06/2023 | 1.0 | Adição do resultado da retro | Arthur Sena e Vinicius Vieira |

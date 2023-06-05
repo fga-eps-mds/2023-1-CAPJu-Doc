@@ -1,4 +1,4 @@
-# <center> Documento de Arquitetura de Software
+# Documento de Arquitetura de Software
 
 ## Introdução
 

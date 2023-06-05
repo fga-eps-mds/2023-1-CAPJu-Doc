@@ -13,9 +13,12 @@ Este documento procura apresentar as ferramentas utilizadas pelo time ao longo d
  - [Live Share](https://visualstudio.microsoft.com/pt-br/services/live-share/) - Extensão para Visual Studio Code utilizada nos pareamentos.
  - [Netlify](https://www.netlify.com/) - Ferramenta utilizada para realizar o *deploy* da interface do sistema. 
  - [SonarCloud](https://www.sonarsource.com/products/sonarcloud/) - Ferramenta para gerar métricas de um projeto baseadas em certos parâmetros.
+ - [EasyRetro](https://easyretro.io/) - Plataforma para realização das retrospectivas das sprints
+ - [PlanningPoker Online](https://planningpokeronline.com/) - Plataforma para realização das votações de planning poker
 
 # Versionamento
-| Data | Autor(es) | Descrição | 
+| Data | Descrição | Autores | 
 | - | - | - |
-| 17/05/2023 | Rodrigo Lima | Criação do documento | 
-| 20/05/2023 | Rodrigo Lima | Adição do SonarCloud |
+| 17/05/2023 | Criação do Documento | Rodrigo Lima |
+| 20/05/2023 | Adição do SonarCloud | Rodrigo Lima |
+| 04/06/2023 | Atualizações textuais e das ferramentas utilizadas | Arthur Sena e Vinícius Vieira |
