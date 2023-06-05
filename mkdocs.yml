@@ -1,28 +1,52 @@
 site_name: CAPJU DOCS
 
 theme:
-    name: material
-    language: pt
-    logo: https://capju.netlify.app/assets/logo.png
-    favicon: https://capju.netlify.app/assets/logo.png
+  name: material
+  palette:
+    primary: black
+    accent: teal
+  font:
+    text: Roboto
+  language: pt
+  logo: https://capju.netlify.app/assets/logo.png
+  favicon: https://capju.netlify.app/assets/logo.png
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
 
 nav:
-    - Sobre: index.md
-    - Politica de Contribuição: politica_de_contribuicao.md
-    - Planejamento de Custos: custos.md
-    - Relatório de Eventos: Relatórios/relatorios_do_projeto.md
-    - EAP : estrutura_analitica_do_projeto.md
-    - Backlog do Produto : backlog_do_produto.md
-    - Visão do Produto: VisaoProduto/visao_do_produto.md
-    - DAS: DAS/documento_de_arquitetura.md
-    - Planejamento: planejamento.md
-    - Controle da equipe: 
-        - Quadro de conhecimento: Controle/quadro_de_conhecimento.md
-        - Quadro de disponibilidade: Controle/quadro_de_disponibilidade.md
-        - Quadro de pareamento: Controle/quadro_de_pareamento.md
-        - Cronograma de dojo: Controle/cronograma_de_dojo.md
-        - Plano de gerenciamento de riscos: plano_de_gerenciamento_de_riscos.md
-        - Comunicação do time: comunicacao.md
-        - Ferramentas utilizadas pela equipe: ferramentas_utilizadas_pela_equipe.md
-
-
+  - Sobre: index.md
+  - Guias:
+      - Politica de Contribuição: politica_de_contribuicao.md
+  - Planejamento:
+      - Planejamento: planejamento.md
+      - Quadro de conhecimento: Controle/quadro_de_conhecimento.md
+      - Quadro de disponibilidade: Controle/quadro_de_disponibilidade.md
+      - Quadro de pareamento: Controle/quadro_de_pareamento.md
+      - Cronograma de dojo: Controle/cronograma_de_dojo.md
+  - Produto:
+      - Visão do Produto: VisaoProduto/visao_do_produto.md
+      - Backlog do Produto: backlog_do_produto.md
+  - Comunicação:
+      - Comunicação do time: comunicacao.md
+      - Relatório de Eventos: 
+        - Semana 1: Relatórios/semana1.md
+        - Semana 2: Relatórios/semana2.md
+        - Semana 3: Relatórios/semana3.md
+        - Semana 4: Relatórios/semana4.md
+        - Semana 5: Relatórios/semana5.md
+        - Semana 6: Relatórios/semana6.md
+        - Sprint 1: Relatórios/sprint1.md
+        - Sprint 2: Relatórios/sprint2.md
+      - Ferramentas Utilizadas: ferramentas_utilizadas_pela_equipe.md
+  - Gestão do Projeto:
+      - EAP: estrutura_analitica_do_projeto.md
+      - Estimativa de Custos: custos.md
+      - Gerenciamento de Riscos: plano_de_gerenciamento_de_riscos.md
+      - DAS: DAS/documento_de_arquitetura.md
