@@ -125,8 +125,13 @@
 |[Diretores devem poder ver outros diretores na aba de cadastro](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/177)| Arthur Sena, Flávio Melo, Gustavo Sorte, Harryson Martins, Juan Pablo Ricarte |
 |[Apagar segundo "Planejamento" do mkdocs.yml](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/179)| Guilherme Gonçalves |
 
+## Retrospectiva
+
+![RETRO](../assets/retro3.jpeg)
+
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 03/06/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves |
 | 08/06/2023 | 0.1.1 | Atualização do Documento | Ana Cavalcanti e Guilherme Gonçalves |
+| 20/06/2023 | 0.1.2 | Atualização do Documento | Ana Cavalcanti e Guilherme Gonçalves |
