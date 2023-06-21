@@ -169,10 +169,10 @@ chamar da “FlowProcess”
 ## Retrospectiva
 
 ![RETRO](../assets/retro2.jpeg)
-![RETRO](../assets/retro2-1.jpeg)
 
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 25/05/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves |
 | 31/05/2023 | 0.1.1 | Atualização do Documento | Ana Cavalcanti e Guilherme Gonçalves |
+| 21/06/2023 | 0.1.2 | Atualização do Documento | Ana Cavalcanti e Guilherme Gonçalves |
