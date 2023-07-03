@@ -12,7 +12,7 @@
 | Papel | Membro |
 | ----- | ------ |
 | EPS | Arthur Sena, Peniel Zannoukou, Rodrigo Lima, Sérgio Cipriano, Vinícius Souza, Wellington Jonathan | 
-| MDS | Ana Cavalcanti, Artur Fontinele, Flávio Melo, Gustavo Sorte, Harryson Martins   , Leandro Oliveira, Oscar Neto, Yan Paulo |
+| MDS | Ana Cavalcanti, Artur Fontinele, Flávio Melo, Gustavo Sorte, Harryson Martins, Leandro Oliveira, Oscar Neto, Yan Paulo |
 
 - Assuntos abordados:
     - Sprint review
@@ -140,7 +140,12 @@ etapa
 |[BUG - Padronizar botões na visualização do Fluxo](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/188)| Guilherme Gonçalves, Vinícius Souza |
 |[BUG - Botão de Retroceder Etapa quando estiver na última etapa](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/189)| Guilherme Gonçalves, Vinícius Souza |
 
+## Retrospectiva
+
+![RETRO](../assets/retro4.jpeg)
+
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 18/06/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves |
+| 21/06/2023 | 0.1.1 | Atualização do Documento | Ana Cavalcanti e Guilherme Gonçalves |
