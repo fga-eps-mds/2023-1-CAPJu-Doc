@@ -21,7 +21,7 @@
 | 04/06/2023 | Entrega de release ao cliente |
 | 06/06/2023 | [Sprint 04](Relatórios/sprint4.md) |
 | 13/06/2023 | [Sprint 05](Relatórios/sprint5.md) |
-| 20/06/2023 | Sprint 06 |
+| 20/06/2023 | [Sprint 06](Relatórios/sprint6.md) |
 | 27/06/2023 | Sprint 07 |
 | 04/07/2023 | Sprint 08 |
 | 10/07/2023 | Entrega de release ao cliente |
