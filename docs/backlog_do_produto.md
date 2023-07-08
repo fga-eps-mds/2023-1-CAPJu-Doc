@@ -26,7 +26,7 @@ Criado por Dai Clegg enquanto desenvolvia seus trabalhos na Oracle nos anos 90, 
 
 Os tipos de perfis usados para realizar o mapeamento de usuários no backlog do produto podem ser acessados abaixo.
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSJuULG_ZwRP766_O_BpQ7nP9S4ia701mtTbZa7VPQt9MRdXLvaNE0A6G-rH2n1cA/pubhtml?widget=true&amp;headers=false&chrome=false" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2)"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS5yc3uvhV7nAqbAtUdELsvRr3Xl9sIB4IM4Rm8yjePXoASLvL5l7nLswm9PP5Bog/pubhtml" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2)"></iframe>
 
 ## Documento de Backlog do Produto
 
@@ -44,3 +44,4 @@ LOPES, Vanessa. PM3. Product backlog: como priorizar tarefas ao desenvolver um p
 | ---------- | ------ | -------------------- | ------------------------------ |
 | 29/04/2023 | 0.1.0  | Criação do documento | Victor Samuel dos Santos Lucas |
 | 01/05/2023 | 0.2.0  | Adição do iframe do backlog do produto | Victor Samuel dos Santos Lucas e Vinícius Vieira de Souza |
+| 08/07/2023 | 0.2.1  | Atualizando o link do tipo de perfis | Peniel Etèmana e Vinícius Vieira |
