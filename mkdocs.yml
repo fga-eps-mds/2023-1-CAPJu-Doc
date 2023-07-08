@@ -30,6 +30,7 @@ nav:
       - Quadro de disponibilidade: Controle/quadro_de_disponibilidade.md
       - Quadro de pareamento: Controle/quadro_de_pareamento.md
       - Cronograma de dojo: Controle/cronograma_de_dojo.md
+      - Plano de qualidade: Planejamento/qualidade.md
   - Produto:
       - Visão do Produto: VisaoProduto/visao_do_produto.md
       - Backlog do Produto: backlog_do_produto.md
