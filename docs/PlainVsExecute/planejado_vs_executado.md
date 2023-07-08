@@ -40,7 +40,7 @@
 - [[US - 19] - Visualização de indicações](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/86)
 
 #### 2.1.5 Pesquisa
-- US20 - Implementar Pesquisa tem não sabemos se foi implementação nova ou se já tinha.
+- US20 - Implementar Pesquisa (tinha mas não em todas as páginas)
 - US21 - Visualização de processos na etapa de um fluxo não tem.
 - US22 - Identificação por prioridade --> tem, provavelmente ja tinha? 
 - US23 - Ordenar processos por tempo --> não tem, e não precisa?
@@ -99,6 +99,7 @@
 #### 2.3.1 [Melhorias de Desempenhos](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/120)
 - [Adicionar paginação em todas as tabelas](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/121)
 - [Remover filtragem do lado do cliente (Frontend)](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/122)
+- [Implementação de Pesquisa em todas as páginas]()
 
 
 ### 2.4 Análise
@@ -107,14 +108,10 @@
 &emsp;&emsp;Foram planejadas 38 atividades no backlog e 25 delas já foram realizadas, surgindo a necessidade de implementação de mais duas tarefas extras relacionadas a melhoria de desempenho, totalizando 27 tarefas realizadas. Vale notar que a US17 foi duplicada já sendo tratada na US19 e a US27 foi fechada devido a novas validações sobre as regras de negócio com o cliente. Com isso considerando 38 tarefas planejadas e 25 implementadas, significa que 65% de atividades planejadas já foram implementadas. Um dos motivos para ter esse valor foi o trabalho em entregar os microsserviçoes e a necessidade de refatorar o Front inteiro do semestre passado. Essa decisão de refatorar o Front foi tomada a fim de entregar um sistema com qualidade e de fácil manutenção para o cliente e os envolvidos.
 
 
-## 3. Custo
-### 3.1 Realizado
-<iframe height=800  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQA7vTXA4-wLEB9KS06dt1w6nm_amLbdZ5cXWVZGNSCWF2N4Nq6BVB3gu3rajDIbTVW5LjWkez7yNvM/pubhtml?gid=381565668&amp;single=true&amp;widget=true&amp;headers=false"
-style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2)"></iframe>
+## 3. [Custo Executado](https://fga-eps-mds.github.io/2023-1-CAPJu-Doc/custos/)
 
-### 3.2 Acompanhamento dos custo do projeto
-<iframe height=400 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRzYmoZAfT1v6bC6KrrTw5I6wPK0XPawuU_Cdt_KLEIof1hwr0smBlZ4YfoehP98QyNJV7t8LYyKjLx/pubhtml"
-style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2)"></iframe>
+<iframe width=100% height=700 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSQrKjqE8OL75o37ep6-bq66D_a15p7WIWworVV4GwoOlCh0U8NUksXIsxJIBDplNaDcuy2weM74OPO/pubhtml?widget=true&amp;headers=false"></iframe>
+
 
 ## 4. Qualidade
 
