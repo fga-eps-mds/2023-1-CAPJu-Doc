@@ -34,6 +34,7 @@ nav:
   - Produto:
       - Visão do Produto: VisaoProduto/visao_do_produto.md
       - Backlog do Produto: backlog_do_produto.md
+      - Protótipo: prototipo.md
   - Comunicação:
       - Comunicação do time: comunicacao.md
       - Rituais da Equipe:  rituais.md
