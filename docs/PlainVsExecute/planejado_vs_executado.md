@@ -140,7 +140,9 @@ Dentro do planejamento, nosso objetivo era deixar o código seguro e mais robust
 
 &emsp;&emsp;Não foram identificados problemas relacionados à falta de comunicação entre os membros da equipe e o cliente, devido à implementação de medidas de prevenção desde o início do projeto. Além disso, todos os membros da equipe permaneceram motivados e bem integrados nas primeiras semanas.
 
+## 6. Earned Value Management (EVM) - Capju
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRzYmoZAfT1v6bC6KrrTw5I6wPK0XPawuU_Cdt_KLEIof1hwr0smBlZ4YfoehP98QyNJV7t8LYyKjLx/pubhtml?gid=583009191&single=false&amp;widget=true&amp;headers=false" style="width: 800px; height: 400px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
 
 ## Histórico de versão
 | Data  | Versão | Descrição | Autor(es) |

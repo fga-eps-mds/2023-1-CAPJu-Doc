@@ -76,7 +76,7 @@ Das tecnologias:
 
 &emsp;&emsp;O diagrama de pacotes é uma ferramenta da UML que apresenta a estrutura do sistema em relação aos pacotes utilizados em sua organização. Por meio desse artefato, é possível obter uma visão hierárquica dos elementos da aplicação. O diagrama de pacotes é composto por diferentes elementos, como pacotes, elementos empacotados, dependências, importações de elementos e pacotes, bem como a mesclagem de pacotes. 
 
-<iframe src="https://i.ibb.co/CvRBxxm/diagrama-de-pacotes.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+<iframe src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20de%20arquitetura.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D189EqkDvuDJ-8C-8sricBey9lCf7B7Yiq%26export%3Ddownload" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
 <figcaption>Figura 1 Imagem que contém o diagrama de pacote.</figcaption>
 
 ## Visão de implementação
