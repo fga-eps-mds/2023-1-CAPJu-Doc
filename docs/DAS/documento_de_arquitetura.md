@@ -90,19 +90,136 @@ Das tecnologias:
 
 &emsp;&emsp;Ao utilizar o DER, é possível modelar os dados de forma mais clara e precisa, facilitando o entendimento do sistema e permitindo a criação de um banco de dados eficiente e organizado. Além disso, ele pode ser utilizado como uma ferramenta de comunicação entre a equipe de desenvolvimento e os stakeholders do projeto, permitindo que todos tenham uma visão clara dos dados que serão manipulados pelo sistema.
 
-<iframe src="https://i.ibb.co/1bppcV8/DER.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+<iframe src="https://i.ibb.co/vJc9gz9/DER1.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+<!-- <a href="https://ibb.co/SK6SWvS"><img src="https://i.ibb.co/vJc9gz9/DER1.png" alt="DER1" border="0"></a> -->
 <figcaption>Figura 2 Imagem que contém o diagrama de Entidade-Relacionamento.</figcaption>
 
 
-### Diagrama Lógico de Dados
 
-&emsp;&emsp;O Diagrama Lógico de Dados (DLD) é um artefato utilizado na modelagem de dados que representa a estrutura lógica de um banco de dados, ou seja, a forma como os dados são organizados e relacionados entre si. Ele é uma representação visual dos objetos de dados, suas propriedades e relacionamentos, independentemente do modelo físico de armazenamento.
+<iframe src="https://i.ibb.co/Km4qjLN/DER-Note.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/Km4qjLN/DER-Note.png" alt="DER-Note" border="0"></a> -->
+<figcaption>Figura 3 Imagem que contém o DER_Note.</figcaption>
 
-&emsp;&emsp;O DLD utiliza símbolos padronizados para representar entidades (tabelas), atributos (campos) e relacionamentos entre as entidades. Ele é utilizado para descrever os dados que serão armazenados em um banco de dados, fornecendo uma visão geral da estrutura de dados e das regras de negócio envolvidas.
+<iframe src="https://i.ibb.co/CJjvvFG/DER-Unit.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/CJjvvFG/DER-Unit.png" alt="DER-Unit" border="0"></a> -->
+<figcaption>Figura 4 Imagem que contém o DER_Unit.</figcaption>
+
+<iframe src="https://i.ibb.co/KNDGGX2/DER-User.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/KNDGGX2/DER-User.png" alt="DER-User" border="0"></a> -->
+<figcaption>Figura 5 Imagem que contém o DER_User.</figcaption>
+
+<iframe src="https://i.ibb.co/k6xBGkN/DER-Process-Management.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+<!-- <a href="https://ibb.co/fG2FXBj"><img src="https://i.ibb.co/k6xBGkN/DER-Process-Management.png" alt="DER-Process-Management" border="0"></a> -->
+<figcaption>Figura 6 Imagem que contém o DER_ProcessManagement.</figcaption>
 
 
-![DER](../assets/DLD.png)
-<figcaption>Figura 3 Imagem que contém o diagrama Lógico de Dados.</figcaption>
+### Modelo Entidade-Relacionamento
+
+&emsp;&emsp;O Modelo Entidade-Relacionamento (MER) é uma técnica de modelagem de dados usada para representar a estrutura lógica de um banco de dados. Ele descreve as entidades (objetos) envolvidas no sistema, os atributos que essas entidades possuem e os relacionamentos entre elas.
+
+&emsp;&emsp;O MER é composto por três elementos principais:
+
+Entidades:
+
+- Representam objetos ou conceitos do mundo real.
+- São representadas por retângulos no diagrama, contendo o nome da entidade.
+- Podem ter atributos que descrevem suas características.
+
+Atributos:
+
+- São as propriedades ou características das entidades.
+- São representados por elipses conectadas às entidades.
+- Podem ser simples (com apenas um valor) ou compostos (compostos por vários sub-atributos).
+- Podem ser obrigatórios (não nulos) ou opcionais (nulos).
+- Podem ser identificadores, ou seja, atributos únicos que identificam cada instância da entidade.
+
+Relacionamentos:
+
+- Descrevem as associações entre as entidades.
+- São representados por linhas que conectam as entidades.
+- Podem ser de diferentes tipos, como um-para-um, um-para-muitos ou muitos-para-muitos.
+- Podem ter atributos próprios, chamados atributos de relacionamento, que fornecem informações adicionais sobre a associação.
+
+&emsp;&emsp;Além desses elementos básicos, o MER também inclui conceitos como chaves primárias, chaves estrangeiras e cardinalidade, que ajudam a definir a estrutura e a integridade do banco de dados.
+
+&emsp;&emsp;O objetivo do MER é fornecer uma representação visual clara e compreensível do esquema do banco de dados, permitindo que os desenvolvedores e administradores de banco de dados entendam a estrutura do sistema, identifiquem as relações entre as entidades e facilitem a implementação do banco de dados.
+
+&emsp;&emsp;Na criação do nosso MER, foi importante consideramos a natureza do sistema, suas regras de negócio e os requisitos de armazenamento e recuperação de dados. O modelo evolui à medida que novos requisitos surgiram ou as necessidades do sistema  foram mudada, e por isso foi refinado durante todo o processo de desenvolvimento do sistema. No final, o MER serve como uma base para a criação do esquema físico do banco de dados, que define a estrutura concreta das tabelas, colunas e relacionamentos no banco de dados real.
+
+
+&emsp;&emsp;<strong> ME-R (Modelo Entidade-Relacionamento) do microsserviço NOTE</strong>
+
+Entidades
+
+ - NOTE
+
+Atributos
+
+ - NOTE (<u>idNote</u>, idStageA, idStageB, record, commentary)
+
+
+&emsp;&emsp;<strong> ME-R (Modelo Entidade-Relacionamento) do microsserviço USER</strong>
+
+Entidades
+
+ - USER
+
+Atributos
+
+ - USER (<u>cpf</u>, idRole, idUnit, fullName, email, password, accepted)
+
+
+&emsp;&emsp;<strong> ME-R (Modelo Entidade-Relacionamento) do microsserviço UNIT</strong>
+
+Entidades
+
+ - UNIT
+
+Atributos
+
+ - UNIT (<u>idUnit</u>, name)
+
+
+&emsp;&emsp;<strong> ME-R (Modelo Entidade-Relacionamento) do microsserviço ProcessManagement</strong>
+
+Entidades
+
+ - FLOW
+ - FLOWUSER
+ - PROCESS
+ - STAGE
+ - PRIORITY
+ 
+Atributos
+
+ - FLOW (<u>idFlow</u>, idUnit, name)
+ - FLOWUSER (<u>idFlowUser</u>, cpf, idFlow)
+ - PROCESS (<u>record</u>, <u>idflow</u>, idStage, finalised, effectiveDate, idPriority, nickname, idUnit)
+ - STAGE (<u>idStage</u>, duration, idUnit, name)
+ - PRIORITY (<u>idPriority</u>, description)
+
+&emsp;&emsp;<strong> Relacionamentos </strong>
+
+- FLOW has STAGE
+
+Um **Flow** tem um ou vários **Stages**, e um **Stage** pode ser de um ou mais **Flows**
+**Cardinalidade**: (1:n)
+
+- FLOW is_combined FlowUser
+
+Um **Flow** pode ser conectado com zero ou mais **FlowUser**, e um **FlowUser** pode ser conectado com zero ou mais **Flow**
+**Cardinalidade**: (0:n)
+
+- FLOW influences PROCESS
+
+Um **Flow** pode ser influenciar zero ou mais **Process**, e um **Process** é influenciado por um **Flow**
+**Cardinalidade**: (0:n)
+
+- PRIORITY influences PROCESS
+
+Uma **PRIORITY** pode caracterizar zero ou mais **Process**, e um **Process** só pode ser caracterizado por até uma **Priority**
+**Cardinalidade**: (0:n)
+
 
 ## Referências
 
@@ -120,3 +237,4 @@ Das tecnologias:
 | ----- | ---- | ---- |  ---- |
 | 27/04/2023 | 1.0 | Criação do Documento | Peniel Etèmana, Rodrigo Lima, Artur Fontinele,  Oscar de Brito,  Harryson Martins, Leandro  Oliveira|
 | 29/04/2023 | 1.1 | Atualização do documento e diagramas | Flávio de Melo, Peniel Etèmana, Rodrigo Lima, Sergio Cipriano, Wellington Jonathan, Yan Paulo |
+| 09/07/2023 | 2.0 | Atualização do documento | Peniel Etèmana, Rodrigo Lima e Vinícius Vieira|
