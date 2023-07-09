@@ -128,19 +128,19 @@ Dentro do planejamento, nosso objetivo era deixar o código seguro e mais robust
 
 ## 5. [Risco](https://fga-eps-mds.github.io/2023-1-CAPJu-Doc/plano_de_gerenciamento_de_riscos/)
 
-### 6.3 Análise
+### 5.1 Análise
 
-&emsp;&emsp;Ao observar  tabela de resumo e  gráfico planejado e compara  tabela de resumo e  gráfico realizado, foi possivel notar que, no item "Membros abandonarem a disciplina", a tabela de risco realizado mostra que o impacto foi maior do que o planejado em alguns sprints, especialmente nos sprints 1 e 5. Isso indica que houve problemas com a retenção de membros e pode requerer ações corretivas para garantir a continuidade do projeto.
+&emsp;&emsp;Ao analisar a tabela de riscos, observamos que ao longo do projeto ocorreram os riscos R1 e R3, nos quais alguns membros não puderam participar de reuniões e treinamentos presencialmente. No entanto, o impacto não foi tão alto quanto o esperado.
 
-&emsp;&emsp;Ao observar  tabela de resumo e gráfico planejado, a comparação da tabela de resumo e gráfico realizado, foi possivel notar que, no item "Membros abandonarem a disciplina", a tabela de risco realizado mostra que o impacto foi maior do que o planejado em algumas sprints, especialmente nas sprints 1 e 5. Isso indica que houve problemas com a retenção de membros e pode requerer ações corretivas para garantir a continuidade do projeto.
+&emsp;&emsp;Em algumas sprints, durante o planejamento, foram consideradas histórias mais fáceis do que realmente eram, assim como US's mais difíceis do que pareciam. Isso resultou em um alto impacto no projeto e na entrega das features, como evidenciado pelo risco R4.
 
-&emsp;&emsp;Já no item "Planejamento de tempo feito de forma equivocada", a tabela de risco realizado indica que o impacto foi menor do que o planejado em alguns sprints, mas ainda foi significativo. Isso sugere que a equipe precisa melhorar sua habilidade de planejamento e garantir que as estimativas de tempo sejam precisas para evitar atrasos no projeto.
+&emsp;&emsp;Outro risco que afetou o projeto foi o R4, relacionado à dificuldade com a tecnologia de desenvolvimento. Esse desafio foi particularmente notado no desenvolvimento do Frontend, onde tanto membros de EPS quanto de MDS tiveram dificuldades para entender o funcionamento das tecnologias. No entanto, a realização de treinamentos, mencionados como medida de prevenção, ajudou a equipe a superar esses obstáculos.
 
-&emsp;&emsp;Já no item "Planejamento de tempo feito de forma equivocada", a tabela de risco realizado indica que o impacto foi menor do que o planejado em algumas sprints, mas ainda foi significativo. Isso sugere que a equipe precisa melhorar sua habilidade de planejamento e garantir que as estimativas de tempo sejam precisas para evitar atrasos no projeto.
+&emsp;&emsp;No início do projeto, vários membros de MDS enfrentaram dificuldades com a configuração do ambiente de desenvolvimento (Risco R10). Em alguns casos, a dockerização do projeto não foi suficiente, pois algumas histórias exigiam um ambiente local de desenvolvimento em execução. Graças às medidas de contenção adotadas, a equipe conseguiu superar esse desafio.
 
-&emsp;&emsp;Ao analisar o item "Não entregar o MVP" nas tabelas de risco planejado e realizado, podemos notar que houve uma subestimação do risco neste item. A média do risco planejado é de 9, enquanto a média do risco realizado é de 16, o que indica que o risco foi muito maior do que o esperado.
+&emsp;&emsp;Não foram identificados problemas relacionados à falta de comunicação entre os membros da equipe e o cliente, devido à implementação de medidas de prevenção desde o início do projeto. Além disso, todos os membros da equipe permaneceram motivados e bem integrados nas primeiras semanas.
 
-&emsp;&emsp;Em resumo, a tabela de risco realizado mostra que houve uma subestimação em alguns itens, especialmente no item "Não entregar o MVP", e a equipe precisa trabalhar para melhorar a precisão de suas estimativas de risco. Além disso, houve problemas com a retenção de membros e a equipe precisa tomar medidas para garantir a continuidade do projeto. Por fim, é importante destacar a necessidade de melhorar a habilidade de planejamento para evitar atrasos no projeto.
+
 
 ## Histórico de versão
 | Data  | Versão | Descrição | Autor(es) |
