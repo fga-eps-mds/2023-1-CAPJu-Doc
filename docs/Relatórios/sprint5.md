@@ -99,9 +99,13 @@ sempre entre as etapas
 |[Configurar CI utilizando sonarcloud](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/2)| Arthur Sena, Sérgio Cipriano |
 |[Atualização das Atas](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/62)| Ana Cavalcanti, Guilherme Gonçalves |
 |[Serviço de Gerenciamento de Processos](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/178)| Victor Lucas |
-|[US40 - Filtro de Processos Finalizados e Arquivados](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/184)| Arthur Sena, Flávio Melo, Juan Pablo Ricarte |
+
+## Retrospectiva
+
+![RETRO](../assets/retro5.jpeg)
 
 ## Histórico de versão
 | Data | Versão | Descrição | Autor(es) |
 | ---- | ---- | ---- | ---- |
 | 21/06/2023 | 0.1.0 | Criação do Documento | Ana Cavalcanti e Guilherme Gonçalves |
+| 04/07/2023 | 0.1.1 | Atualização do Documento | Ana Cavalcanti e Guilherme Gonçalves |
