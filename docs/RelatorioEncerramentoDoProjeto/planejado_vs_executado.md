@@ -117,14 +117,17 @@
 
 ### Planejado
 
-&emsp;&emsp;Dentro do planejamento, nosso objetivo era deixar o código seguro, mais rebusto para futuras implementações com menor acoplamento e com alta coesão. Com nenhum bugs experado, sem nenhuma vulnerabilidade. Com uma ampla cobetura de testes em torno de 90% em todos os repositórios do capju.
-Dentro do planejamento, nosso objetivo era deixar o código seguro e mais robusto para futuras implementações, com menor acoplamento e com alta coesão, tratando os bugs encontrados e sempre levando em conta as possíveis vulnerabilidades. Com uma ampla cobetura de testes em torno de 90% em todos os repositórios do capju.
+&emsp;&emsp; Com a finalidade de realizar uma entrega mais segura e confiável para o cliente, a equipe almejou uma cobertura acima de 80% para todos os repositórios. Devido a implementação dos microserviços e decisão de refatoração do front já foi imaginado também que seria um desafio atingir essa meta devido a reformulação de testes no Backend para cada microserviço e criação de testes para todo o frontend. Dentro do planejamento, nosso objetivo era deixar o código seguro e mais robusto para futuras implementações, com menor acoplamento e com alta coesão, tratando os bugs encontrados e sempre levando em conta as possíveis vulnerabilidades.
 
 ### Executado
 
-&emsp;&emsp;O que foi executando foram algumas refatorações que exigiram muitas mudanças no que estava funcionando no código, afetando assim a cobertura de testes e algumas vulnerabilidades e uma cobertura de teste abaixo da esperada principalmente no repositório de service que obteve uma cobertura de 50,1%, já no repositório de interface foi atingida uma cobertura de testes de 75,5%.
+&emsp;&emsp;Como previsto a equipe se deparou com desafios em atingir as metas de qualidades planejadas devido a refatoração do Frontend e criação dos microserviços. Além disso, identificamos um problema nos testes. Semestres anteriores criaram uma estrutura de fazer mock do Banco de Dados, essa estrutura quebrou após alterar a tabela Roles.
 
-&emsp;&emsp;O que foi executando foram algumas refatorações que exigiram muitas mudanças em como o código estava estruturado, afetando assim a cobertura de testes e algumas vulnerabilidades, assim como a cobertura de teste abaixo do esperado principalmente no repositório de service que obteve uma cobertura de 50,1%, já no repositório de interface foi atingida uma cobertura de testes de 75,5%.
+&emsp;&emsp;O setup estava tão ruim que estava utilizando sqlite3, sendo que toda a aplicação é feita para trabalhar com postgres. Por conta disso, ao adicionar um novo atributo na tabela Roles, que usa uma feature exclusiva do postgres, 100 testes falharam.
+
+&emsp;&emsp;Desse modo, toda essa estrutura de mock do Banco foi descartada, visto que era muito trabalhoso alterar ela para se adaptar ao postgres. Assim, reescrevemos todos os testes utilizando mocks de funções com axios.
+
+&emsp;&emsp;Um bom ponto a comentar é que atualmente a equipe atingiu 100% de cobertura nos endpoints
 
 ## 5. [Risco](https://fga-eps-mds.github.io/2023-1-CAPJu-Doc/plano_de_gerenciamento_de_riscos/)
 
