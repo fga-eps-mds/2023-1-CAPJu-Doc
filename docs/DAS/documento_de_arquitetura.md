@@ -77,7 +77,7 @@ Das tecnologias:
 &emsp;&emsp;O diagrama de pacotes é uma ferramenta da UML que apresenta a estrutura do sistema em relação aos pacotes utilizados em sua organização. Por meio desse artefato, é possível obter uma visão hierárquica dos elementos da aplicação. O diagrama de pacotes é composto por diferentes elementos, como pacotes, elementos empacotados, dependências, importações de elementos e pacotes, bem como a mesclagem de pacotes. 
 
 <iframe src="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20de%20arquitetura.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D189EqkDvuDJ-8C-8sricBey9lCf7B7Yiq%26export%3Ddownload" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
-<figcaption>Figura 1 Imagem que contém o diagrama de pacote.</figcaption>
+<figcaption align="center">Figura 1 Imagem que contém o diagrama de pacote.</figcaption>
 
 ## Visão de implementação
 &emsp;&emsp;A visão de implementação tem como objetivo descrever como o sistema é mapeado para o hardware e é utilizada no fluxo de trabalho de Análise & Design. Essa visão ilustra a distribuição do processamento em um conjunto de nós do sistema, incluindo a distribuição física dos processos e threads. Durante cada iteração do processo de desenvolvimento, essa visão é refinada para mostrar de forma mais clara a distribuição física do processamento no sistema.
@@ -92,25 +92,40 @@ Das tecnologias:
 
 <iframe src="https://i.ibb.co/vJc9gz9/DER1.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
 <!-- <a href="https://ibb.co/SK6SWvS"><img src="https://i.ibb.co/vJc9gz9/DER1.png" alt="DER1" border="0"></a> -->
-<figcaption>Figura 2 Imagem que contém o diagrama de Entidade-Relacionamento.</figcaption>
+<figcaption align="center">Figura 2 Imagem que contém o diagrama de Entidade-Relacionamento.</figcaption>
 
 
-
-<iframe src="https://i.ibb.co/Km4qjLN/DER-Note.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
-<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/Km4qjLN/DER-Note.png" alt="DER-Note" border="0"></a> -->
-<figcaption>Figura 3 Imagem que contém o DER_Note.</figcaption>
-
-<iframe src="https://i.ibb.co/CJjvvFG/DER-Unit.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
-<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/CJjvvFG/DER-Unit.png" alt="DER-Unit" border="0"></a> -->
-<figcaption>Figura 4 Imagem que contém o DER_Unit.</figcaption>
-
-<iframe src="https://i.ibb.co/KNDGGX2/DER-User.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
-<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/KNDGGX2/DER-User.png" alt="DER-User" border="0"></a> -->
-<figcaption>Figura 5 Imagem que contém o DER_User.</figcaption>
-
+<p align="center">
+<iframe src="https://i.ibb.co/Km4qjLN/DER-Note.png" style="width: 350px; height: 220px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+</p>
+<figcaption align="center">Figura 3 - Imagem que contém o DER_Note.</figcaption>
+<p align="center">
+<iframe src="https://i.ibb.co/CJjvvFG/DER-Unit.png" style="width: 400px; height: 125px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+</p>
+<figcaption align="center">Figura 4 - Imagem que contém o DER_Unit.</figcaption>
+<p align="center">
+<iframe src="https://i.ibb.co/KNDGGX2/DER-User.png" style="width: 400px; height: 250px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+</p>
+<figcaption align="center">Figura 5 - Imagem que contém o DER_User.</figcaption>
+<p align="center">
 <iframe src="https://i.ibb.co/k6xBGkN/DER-Process-Management.png" style="width: 800px; height: 500px; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+</p>
+<figcaption align="center">Figura 6 - Imagem que contém o DER_ProcessManagement.</figcaption>
+<p align="center">
+<iframe src="https://i.ibb.co/dtFqRjZ/DER-Role.png" style="width: 350px; height: 350x; border: none;border-radius: 10px;box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);"></iframe>
+</p>
+<figcaption align="center">Figura 7 - Imagem que contém o DER_Role.</figcaption>
+
+<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/Km4qjLN/DER-Note.png" alt="DER-Note" border="0"></a> -->
+
+<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/CJjvvFG/DER-Unit.png" alt="DER-Unit" border="0"></a> -->
+
+<!-- <a href="https://imgbb.com/"><img src="https://i.ibb.co/KNDGGX2/DER-User.png" alt="DER-User" border="0"></a> -->
+
 <!-- <a href="https://ibb.co/fG2FXBj"><img src="https://i.ibb.co/k6xBGkN/DER-Process-Management.png" alt="DER-Process-Management" border="0"></a> -->
-<figcaption>Figura 6 Imagem que contém o DER_ProcessManagement.</figcaption>
+
+<!-- <a href="https://imgbb.com/"><img src="" alt="DER-Role" border="0"></a> -->
+
 
 
 ### Modelo Entidade-Relacionamento
@@ -149,76 +164,78 @@ Relacionamentos:
 
 &emsp;&emsp;<strong> ME-R (Modelo Entidade-Relacionamento) do microsserviço NOTE</strong>
 
-Entidades
+- Entidades
+    - NOTE
 
- - NOTE
-
-Atributos
-
- - NOTE (<u>idNote</u>, idStageA, idStageB, record, commentary)
+- Atributos
+    - NOTE (<u>idNote</u>, idStageA, idStageB, record, commentary)
 
 
 &emsp;&emsp;<strong> ME-R (Modelo Entidade-Relacionamento) do microsserviço USER</strong>
 
-Entidades
+- Entidades
+    - USER
 
- - USER
-
-Atributos
-
- - USER (<u>cpf</u>, idRole, idUnit, fullName, email, password, accepted)
+- Atributos
+    - USER (<u>cpf</u>, idRole, idUnit, fullName, email, password, accepted)
 
 
 &emsp;&emsp;<strong> ME-R (Modelo Entidade-Relacionamento) do microsserviço UNIT</strong>
 
-Entidades
-
- - UNIT
-
-Atributos
-
- - UNIT (<u>idUnit</u>, name)
+- Entidades
+    - UNIT
+- Atributos
+    - UNIT (<u>idUnit</u>, name)
 
 
 &emsp;&emsp;<strong> ME-R (Modelo Entidade-Relacionamento) do microsserviço ProcessManagement</strong>
 
-Entidades
-
- - FLOW
- - FLOWUSER
- - PROCESS
- - STAGE
- - PRIORITY
+- Entidades
+    - FLOW
+    - FLOWUSER
+    - PROCESS
+    - STAGE
+    - PRIORITY
  
-Atributos
+- Atributos
+    - FLOW (<u>idFlow</u>, idUnit, name)
+    - FLOWUSER (<u>idFlowUser</u>, cpf, idFlow)
+    - PROCESS (<u>record</u>, <u>idflow</u>, idStage, finalised, effectiveDate, idPriority, nickname, idUnit)
+    - STAGE (<u>idStage</u>, duration, idUnit, name)
+    - PRIORITY (<u>idPriority</u>, description)
 
- - FLOW (<u>idFlow</u>, idUnit, name)
- - FLOWUSER (<u>idFlowUser</u>, cpf, idFlow)
- - PROCESS (<u>record</u>, <u>idflow</u>, idStage, finalised, effectiveDate, idPriority, nickname, idUnit)
- - STAGE (<u>idStage</u>, duration, idUnit, name)
- - PRIORITY (<u>idPriority</u>, description)
+&emsp;&emsp;<strong> ME-R (Modelo Entidade-Relacionamento) do microsserviço ROLE</strong>
 
-&emsp;&emsp;<strong> Relacionamentos </strong>
+- Entidades
+    - ROLE
 
-- FLOW has STAGE
+- Atributos
+    - ROLE (<u>idRole</u>, name, accessLevel, allowedActions)
 
-Um **Flow** tem um ou vários **Stages**, e um **Stage** pode ser de um ou mais **Flows**
-**Cardinalidade**: (1:n)
+- Relacionamentos
+    - FLOW has STAGE
 
-- FLOW is_combined FlowUser
+        Um **Flow** tem um ou vários **Stages**, e um **Stage** pode ser de um ou mais **Flows**
 
-Um **Flow** pode ser conectado com zero ou mais **FlowUser**, e um **FlowUser** pode ser conectado com zero ou mais **Flow**
-**Cardinalidade**: (0:n)
+        **Cardinalidade**: (1:n)
 
-- FLOW influences PROCESS
+    - FLOW is_combined FlowUser
+    
+        Um **Flow** pode ser conectado com zero ou mais **FlowUser**, e um **FlowUser** pode ser conectado com zero ou mais **Flow**
+        
+        **Cardinalidade**: (0:n)
 
-Um **Flow** pode ser influenciar zero ou mais **Process**, e um **Process** é influenciado por um **Flow**
-**Cardinalidade**: (0:n)
+    - FLOW influences PROCESS
+    
+        Um **Flow** pode ser influenciar zero ou mais **Process**, e um **Process** é influenciado por um **Flow**
+        
+        **Cardinalidade**: (0:n)
 
-- PRIORITY influences PROCESS
-
-Uma **PRIORITY** pode caracterizar zero ou mais **Process**, e um **Process** só pode ser caracterizado por até uma **Priority**
-**Cardinalidade**: (0:n)
+    - PRIORITY influences PROCESS
+    
+        Uma **PRIORITY** pode caracterizar zero ou mais **Process**, e um **Process** só pode ser caracterizado por até uma **Priority**
+        
+        **Cardinalidade**: (0:n)
 
 
 ## Referências
