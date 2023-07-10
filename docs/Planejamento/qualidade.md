@@ -41,7 +41,7 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
        Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
        </p>
       </figcaption>
-    <figure>
+    </figure>
     </a>
 
     Obs.: onde um arquivo complexo é definido como aquele cuja complexidade ciclomática por função é maior que 10 (valor padrão). A Complexidade Ciclomática contabiliza quantos caminhos possíveis um fluxo inicial de código pode assumir.
@@ -61,7 +61,7 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
       Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
-    <figure>
+    </figure>
 
     <p>
     <strong>Densidade de linhas comentadas</strong>
@@ -74,7 +74,7 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
       Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
-    <figure>
+    </figure>
 
 3. **Duplicidade**
 
@@ -91,7 +91,7 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
       Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
-    <figure>
+    </figure>
 
     <p align="left">
     <strong>Densidade de duplicação</strong>
@@ -104,7 +104,7 @@ O conjunto de métricas abaixo, referentes ao fator de qualidade _Code Quality_
       Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
-    <figure>
+    </figure>
 
 ### Cálculo Manutenibilidade e Interpretação
 
@@ -121,7 +121,7 @@ Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fato
   Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
   </p>
   </figcaption>
-<figure>
+</figure>
 
 <p align="left">
 <strong>Constantes na Equação Qualidade de Código</strong>
@@ -134,7 +134,7 @@ Tendo cada uma das 3 métricas acima calculadas partimos para o cálculo do fato
   Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
   </p>
   </figcaption>
-<figure>
+</figure>
 
 Onde, m1, m2 e m3 remetem a Complexidade, Comentários e Duplicidade, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
 
@@ -161,7 +161,7 @@ A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test 
       Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
-    <figure>
+    </figure>
 
 2. **_Fast Test Builds_**
 
@@ -178,7 +178,7 @@ A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test 
       Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
-    <figure>
+    </figure>
 
     Obs.: _fast unit test_ são os testes cuja duração de execução está abaixo de 300 segundos.
 
@@ -197,7 +197,7 @@ A fim de mensurá-lo, são necessárias 3 métricas: _Passed Tests_, _Fast Test 
       Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
       </p>
       </figcaption>
-    <figure>
+    </figure>
 
     Obs.: Onde _AcceptedUnitTestFiles_ são aqueles arquivos de teste unitário que testam ao menos 60% do código de seu componente alvo para o qual foi implementado.
 
@@ -216,7 +216,7 @@ Finalmente partimos para o cálculo do fator de qualidade _Testing Status_ que, 
       Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
     </p>
   </figcaption>
-<figure>
+</figure>
 
 <p align="left">
 <strong>Constantes na equação Testing Status</strong>
@@ -229,7 +229,7 @@ Finalmente partimos para o cálculo do fator de qualidade _Testing Status_ que, 
   Fonte: <a target="_blank" href="https://docs.sonarcloud.io/digging-deeper/metric-definitions/"> SonarCloud</a>
   </p>
   </figcaption>
-<figure>
+</figure>
 
 Onde, m4, m5 e m6 remetem a _Passed Tests_, _Fast Test Builds_ e _Coverage_, respectivamente. O resultado final é um valor entre 0 e 1 (0: péssimo, 1: excelente)
 
