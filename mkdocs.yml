@@ -22,6 +22,7 @@ theme:
 
 nav:
   - Sobre: index.md
+  - Manual de Instalação: manual_de_instalacao.md
   - Guias:
       - Politica de Contribuição: politica_de_contribuicao.md
   - Planejamento:
