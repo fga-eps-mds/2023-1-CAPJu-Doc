@@ -212,6 +212,9 @@ $ docker-compose up
 
 Todos os serviços serão executados, exceto o Mailer.
 
+No docker-compose.yml existe um proxy que serve de API Gateway, assim, é
+possível acessar todos os microserviços pela mesma porta.
+
 Para executar o Mailer é necessário configurar um servidor SMTP para envio de
 e-mail. O Mailer utiliza o mesmo banco de dados que o ProcessManagement.
 
