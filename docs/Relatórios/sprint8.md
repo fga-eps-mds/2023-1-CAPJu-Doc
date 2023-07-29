@@ -6,7 +6,7 @@
 
 
 ## Atividades realizadas
-### Reunião dia 04/06/2023
+### Reunião dia 04/07/2023
 **Participantes**
 
 | Papel | Membro |
@@ -47,7 +47,11 @@
 | ----- | ---------------- |
 |[Configurar deploy contínuo do repositório Services](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/4)| Sérgio Cipriano |
 |[Atualização das Atas](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/62)| Ana Cavalcanti, Guilherme Gonçalves |
+|[US16 - Visualização do tutorial](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/83)| Flávio Melo, Gustavo Sorte, Wellington Jonathan |
+|[US18 - Visualização de contribuidores](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/85)| Guilherme Gonçalves, Harryson Martins, Victor Lucas |
+|[US19 - Visualização de indicações](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/86)| Artur Fontinele, Leandro Oliveira, Peniel Zannoukou |
 |[US25 - Gerenciar perfis](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/92)| Arthur Sena, Artur Fontinele, Victor Lucas, Yan Paulo |
+|[US28 - Registro sem restrições](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/95)| Leandro Oliveira, Oscar Neto, Vinícius Souza, Victor Lucas |
 |[Refatoração dos microserviços](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/101)| Sérgio Cipriano |
 |[TEST - Adicionar testes nas novas funcionalidades](https://github.com/fga-eps-mds/2023-1-CAPJu-Doc/issues/192)| Victor Lucas |
 
