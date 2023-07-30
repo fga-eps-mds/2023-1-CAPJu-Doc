@@ -25,7 +25,7 @@ $ sudo apt-get install nginx
 
 Em seguida, editar o arquivo /etc/nginx/nginx.conf com o seguinte conteúdo:
 
-*OBS*: Se estiver usando uma máquina com outros serviços, é recomendado adaptar
+_OBS_: Se estiver usando uma máquina com outros serviços, é recomendado adaptar
 essa configuração para o arquivo /etc/nginx/sites-available/seudominio.com
 
 ```
@@ -58,7 +58,7 @@ http {
       proxy_set_header X-Real-IP $remote_addr;
       proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
     }
-	
+
     ssl_certificate /etc/letsencrypt/live/capju.sergiosacj.tech/fullchain.pem;
     ssl_certificate_key /etc/letsencrypt/live/capju.sergiosacj.tech/privkey.pem;
   }
@@ -79,7 +79,8 @@ http {
 ```
 
 Alguns detalhes importantes:
-- O nome do server "server\_name" é o domínio seguido do IP (HTTPS só irá funcionar com um domínio);
+
+- O nome do server "server_name" é o domínio seguido do IP (HTTPS só irá funcionar com um domínio);
 - Para executar mais de uma versão do CAPJu na mesma porta basta configurar diferentes raízes (Exemplo: /dev e /prod);
 - A primeira configuração de server é feita para HTTPS, a segunda é feita para redirecionar HTTP para HTTPS;
 
@@ -96,6 +97,7 @@ Essa configuração ainda não vai funcionar, vamos configurar o certificado TLS
 ## Let's Encrypt
 
 Pré-requisitos para configurar certificado:
+
 - Domínio registrado;
 - O Domínio precisa ter um A record com "seudominio.com" apontando para um IP
   público do servidor (nos exemplos eu uso "capju.sergiosacj.tech" ao invés de
@@ -220,8 +222,37 @@ e-mail. O Mailer utiliza o mesmo banco de dados que o ProcessManagement.
 
 ## Configurando o FrontEnd do CAPJu
 
+O FrontEnd do CAPJu utiliza React, criado com Vite e para ser executado necessita primeiro das instalação de suas bibliotecas.
+
+Para isso devemos instalar o [node](https://nodejs.org/en/download) e o gerenciador de pacotes [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable). Feito isso, basta rodar o seguinte comando:
+
+```
+yarn
+```
+
+Com as biblitecas instaladas, crie um arquivo de ambiente e preencha os seguintes valores com as URLs de cada serviço:
+
+```
+VITE_USER_SERVICE_URL=
+VITE_ROLE_SERVICE_URL=
+VITE_UNIT_SERVICE_URL=
+VITE_PROCESS_MANAGEMENT_SERVICE_URL=
+VITE_NOTE_SERVICE_URL=
+```
+
+Para seguir com o desenvolvimento rode:
+
+```
+yarn dev
+```
+
+Desta forma, tudo já deve estar devidamente configurado.
+
+Para realização de um deploy continuo, recomendamos os serviços da [Netlify](https://www.netlify.com/) que realiza o deploy automático de diversas branches do git de maneira gratuita, além de permitir gerar diferentes ambientes (prod ou dev) e previews das versões de cada pull request.
+
 ## Configurando a Interface do CAPJu (FrontEnd)
 
-| Data | Versão | Descrição | Autor(es) |
-|-|-|-|-|
-| 15/04/2023 | 0.1.0 | Criação do documento | Sérgio Cipriano |
+| Data       | Versão | Descrição                    | Autor(es)       |
+| ---------- | ------ | ---------------------------- | --------------- |
+| 15/04/2023 | 0.1.0  | Criação do documento         | Sérgio Cipriano |
+| 30/07/2023 | 1.0    | Adição do tópico de frontend | Arthur Sena     |
